@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/processed/
+.env
+.DS_Store
+sandbox/
+*.cmd

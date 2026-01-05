@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset template, please cite it as below."
+title: "RYFoR Dataset Template for FAIR and Reusable Scientific Data"
+version: "3.3.0"
+doi: "10.5281/zenodo.1234567"
+date-released: 2025-08-07
+
+authors:
+  - family-names: "Rincon-Yanez"
+    given-names: "Diego"
+    affiliation: "Trinity College Dublin"
+    orcid: "https://orcid.org/0000-0002-8982-1678"
+    email: "rinconyanezd+ryfor@gmail.com"
+
+keywords:
+  - FAIR data
+  - dataset template
+  - research reproducibility
+  - open science
+  - metadata standards
+
+repository-code: "https://github.com/ryfor/dataset-template"
+url: "https://github.com/RYFoR/dataset-template"
+license: "CCBY"

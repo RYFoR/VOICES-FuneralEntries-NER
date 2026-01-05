@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Generic Open Dataset Template",
+  "description": "A reusable dataset template for scientific research aligned with FAIR principles. Includes metadata, codebooks, and catalog interoperability support.",
+  "url": "https://github.com/RYFoR/dataset-template",
+  "keywords": [
+    "FAIR data",
+    "Open Science",
+    "Metadata",
+    "Template",
+    "Catalog Integration"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "Diego Rincon-Yanez",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Trinity College Dublin"
+    }
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip",
+    "encodingFormat": "application/zip"
+  },
+  "version": "3.3.0",
+  "datePublished": "2025-08-07"
+}

@@ -1,0 +1,83 @@
+{
+  "profile": "tabular-data-package",
+  "name": "RYFoR Dataset Template for FAIR and Reusable Scientific Data",
+  "title": "RYFoR Dataset Template for FAIR and Reusable Scientific Data",
+  "description": "A synthetic dataset simulating responses from a family-oriented survey. Designed as a reusable and FAIR-aligned dataset template with structured metadata and catalog integration support.",
+  "version": "3.3.0",
+  "homepage": "https://github.com/RYFoR/dataset-template",
+  "created": "2025-08-07",
+  "licenses": [
+    {
+      "name": "MIT",
+      "path": "https://opensource.org/licenses/MIT",
+      "title": "MIT License"
+    }
+  ],
+  "keywords": [
+    "survey",
+    "household",
+    "region",
+    "electricity",
+    "income",
+    "open-data",
+    "FAIR"
+  ],
+  "sources": [
+    {
+      "title": "RYFoR: Rincon-Yanez FAIR Open Research",
+      "path": "https://github.com/RYFoR"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Diego Rincon-Yanez",
+      "role": "author",
+      "email": "rinconyanezd+ryfor@gmail.com",
+      "organization": "Trinity College Dublin"
+    }
+  ],
+  "resources": [
+    {
+      "name": "metadata",
+      "path": "data/raw/metadata.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "household_id",
+            "type": "integer",
+            "description": "Unique identifier for each household",
+            "constraints": {
+              "minimum": 1
+            }
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "Geographic region where the household is located",
+            "constraints": {
+              "enum": ["North", "South", "Central"]
+            }
+          },
+          {
+            "name": "income",
+            "type": "number",
+            "description": "Reported monthly household income in USD",
+            "constraints": {
+              "minimum": 0,
+              "maximum": 10000
+            }
+          },
+          {
+            "name": "has_electricity",
+            "type": "boolean",
+            "description": "Whether the household has access to electricity"
+          }
+        ],
+        "primaryKey": ["household_id"]
+      }
+    }
+  ]
+}

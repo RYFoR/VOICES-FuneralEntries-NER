@@ -1,0 +1,30 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<https://github.com/RYFoR/dataset-template>
+    a dcat:Dataset ;
+    dct:title "Generic Open Dataset Template" ;
+    dct:description "A generic and reusable dataset template for open research aligned with FAIR principles, including documentation, metadata, and access policies." ;
+    dct:creator [
+        a foaf:Person ;
+        foaf:name "Diego Rincon-Yanez" ;
+        foaf:mbox "mailto:rinconyanezd+ryfor@gmail.com" ;
+        foaf:affiliation "Trinity College Dublin"
+    ] ;
+    dct:issued "2025-08-07"^^xsd:date ;
+    dct:language "en" ;
+    dct:license <https://creativecommons.org/licenses/by/4.0/> ;
+    dcat:keyword "FAIR data", "Open Science", "Template", "Metadata", "Catalog Integration" ;
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip> ;
+        dcat:mediaType "application/zip" ;
+        dcat:downloadURL <https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip>
+    ] ;
+    dcat:landingPage <https://github.com/RYFoR/dataset-template> ;
+    dct:publisher [
+        a foaf:Organization ;
+        foaf:name "RYFoR: Rincon-Yanez FAIR Open Research"
+    ] .
