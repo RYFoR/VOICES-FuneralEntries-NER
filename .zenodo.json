@@ -1,29 +1,45 @@
 {
-  "title": "Generic Open Dataset Template",
+  "title": "Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland",
   "upload_type": "dataset",
-  "description": "This is a reusable dataset template designed for open scientific research following FAIR principles. It includes metadata, access descriptions, and documentation files for integration with open data catalogs and repositories.",
-  "creators": [
-    {
+  "description": "This dataset supports research on the recovery of women’s lives from fragmented and underused archives, focusing on the Funeral Entries held in the Genealogical Office of the National Library of Ireland. This repository provides data, code, and documentation for assesment of the combination of out of the box AI-powered methods (HTR, NER) on the Funeral Entries manuscripts from the National Library of Ireland",
+  "creators": [{
+      "name": "McShane, Bronagh Ann",
+      "affiliation": "Trinity College Dublin",
+      "orcid": "0000-0001-7760-621X"
+    },{
       "name": "Rincon-Yanez, Diego",
-      "affiliation": "Trinity College Dublin"
-    }
-  ],
+      "affiliation": "Vienna University of Economics and Business",
+      "orcid": "0000-0002-8982-1678"
+    },{
+      "name": "Vanden Borre, Felix",
+      "affiliation": "Trinity College Dublin",
+      "orcid": "0009-0001-8704-4588"
+    },{
+      "name": "Ohlmeyer, Jane",
+      "affiliation": "Trinity College Dublin",
+      "orcid": "0000-0002-8982-1678"
+    },{
+      "name": "O'Sullivan, Declan",
+      "affiliation": "Trinity College Dublin",
+      "orcid": "0000-0003-1090-3548"
+    }],
   "keywords": [
-    "FAIR data",
-    "Open Science",
-    "Dataset template",
-    "Metadata",
-    "Semantic Web"
+    "digital humanities",
+    "benchmarking",
+    "named entity recognition",
+    "early modern Ireland",
+    "women’s history",
+    "FAIR data"
   ],
   "license": "CC-BY-4.0",
   "access_right": "open",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/RYFoR/dataset-template",
+      "identifier": "https://github.com/RYFoR/VOICES-FuneralEntries-NER",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
   ],
-  "version": "3.3.0",
+  "version": "0.0.1",
   "language": "eng"
 }

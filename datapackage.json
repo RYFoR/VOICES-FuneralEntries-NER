@@ -1,83 +1,65 @@
 {
   "profile": "tabular-data-package",
-  "name": "RYFoR Dataset Template for FAIR and Reusable Scientific Data",
-  "title": "RYFoR Dataset Template for FAIR and Reusable Scientific Data",
-  "description": "A synthetic dataset simulating responses from a family-oriented survey. Designed as a reusable and FAIR-aligned dataset template with structured metadata and catalog integration support.",
-  "version": "3.3.0",
-  "homepage": "https://github.com/RYFoR/dataset-template",
-  "created": "2025-08-07",
+  "name": "VOICES Funeral Entries NER",
+  "title": "Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland",
+  "description": "This dataset supports the study 'Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland', providing FAIR, open data for digital humanities, named entity recognition, and women’s history research.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/RYFoR/VOICES-FuneralEntries-NER",
+  "created": "2026-01-05",
   "licenses": [
     {
-      "name": "MIT",
-      "path": "https://opensource.org/licenses/MIT",
-      "title": "MIT License"
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
     }
   ],
   "keywords": [
-    "survey",
-    "household",
-    "region",
-    "electricity",
-    "income",
-    "open-data",
-    "FAIR"
+    "digital humanities",
+    "benchmarking",
+    "named entity recognition",
+    "early modern Ireland",
+    "women’s history",
+    "FAIR data"
   ],
   "sources": [
     {
-      "title": "RYFoR: Rincon-Yanez FAIR Open Research",
-      "path": "https://github.com/RYFoR"
+      "title": "VOICES-FuneralEntries-NER",
+      "path": "https://github.com/RYFoR/VOICES-FuneralEntries-NER"
     }
   ],
   "contributors": [
     {
+      "title": "Bronagh Ann McShane",
+      "role": "author",
+      "orcid": "https://orcid.org/0000-0001-7760-621X",
+      "organization": "Trinity College Dublin"
+    },
+    {
       "title": "Diego Rincon-Yanez",
       "role": "author",
-      "email": "rinconyanezd+ryfor@gmail.com",
+      "orcid": "https://orcid.org/0000-0002-8982-1678",
+      "organization": "Vienna University of Economics and Business"
+    },
+    {
+      "title": "Felix Vanden Borre",
+      "role": "author",
+      "orcid": "https://orcid.org/0009-0001-8704-4588",
+      "organization": "Trinity College Dublin"
+    },
+    {
+      "title": "Jane Ohlmeyer",
+      "role": "author",
+      "orcid": "https://orcid.org/0000-0002-8982-1678",
+      "organization": "Trinity College Dublin"
+    },
+    {
+      "title": "Declan O'Sullivan",
+      "role": "author",
+      "orcid": "https://orcid.org/0000-0003-1090-3548",
       "organization": "Trinity College Dublin"
     }
   ],
   "resources": [
-    {
-      "name": "metadata",
-      "path": "data/raw/metadata.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "household_id",
-            "type": "integer",
-            "description": "Unique identifier for each household",
-            "constraints": {
-              "minimum": 1
-            }
-          },
-          {
-            "name": "region",
-            "type": "string",
-            "description": "Geographic region where the household is located",
-            "constraints": {
-              "enum": ["North", "South", "Central"]
-            }
-          },
-          {
-            "name": "income",
-            "type": "number",
-            "description": "Reported monthly household income in USD",
-            "constraints": {
-              "minimum": 0,
-              "maximum": 10000
-            }
-          },
-          {
-            "name": "has_electricity",
-            "type": "boolean",
-            "description": "Whether the household has access to electricity"
-          }
-        ],
-        "primaryKey": ["household_id"]
-      }
-    }
+    
   ]
 }

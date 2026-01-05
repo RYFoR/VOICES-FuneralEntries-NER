@@ -1,24 +1,41 @@
 cff-version: 1.2.0
-message: "If you use this dataset template, please cite it as below."
-title: "RYFoR Dataset Template for FAIR and Reusable Scientific Data"
-version: "3.3.0"
-doi: "10.5281/zenodo.1234567"
-date-released: 2025-08-07
+message: "If you use this dataset, please cite it as below."
+title: "Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland"
+version: "0.0.1"
+doi: "TBD"
+date-released: 2026-01-05
 
 authors:
+  - family-names: "McShane"
+    given-names: "Bronagh Ann"
+    orcid: "https://orcid.org/0000-0001-7760-621X"    
+    affiliation: "Trinity College Dublin"
   - family-names: "Rincon-Yanez"
     given-names: "Diego"
-    affiliation: "Trinity College Dublin"
+    affiliation: "Vienna University of Economics and Business"
     orcid: "https://orcid.org/0000-0002-8982-1678"
-    email: "rinconyanezd+ryfor@gmail.com"
+  - family-names: "Vanden Borre"
+    given-names: "Felix"
+    affiliation: "Trinity College Dublin"
+    orcid: "https://orcid.org/0009-0001-8704-4588"
+  - family-names: "Ohlmeyer"
+    given-names: "Jane"
+    affiliation: "Trinity College Dublin"
+    orcid: "https://orcid.org/0000-0002-8982-1678"    
+  - family-names: "O'Sullivan"
+    given-names: "Declan"
+    affiliation: "Trinity College Dublin"
+    orcid: "https://orcid.org/0000-0003-1090-3548"    
+
 
 keywords:
+  - digital humanities
+  - benchmarking
+  - named entity recognition
+  - early modern Ireland
+  - women’s history
   - FAIR data
-  - dataset template
-  - research reproducibility
-  - open science
-  - metadata standards
 
-repository-code: "https://github.com/ryfor/dataset-template"
-url: "https://github.com/RYFoR/dataset-template"
-license: "CCBY"
+repository-code: "https://github.com/RYFoR/VOICES-FuneralEntries-NER"
+url: "https://github.com/RYFoR/VOICES-FuneralEntries-NER"
+license: "CC-BY-4.0"

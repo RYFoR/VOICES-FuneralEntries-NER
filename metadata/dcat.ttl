@@ -5,26 +5,48 @@
 
 <https://github.com/RYFoR/dataset-template>
     a dcat:Dataset ;
-    dct:title "Generic Open Dataset Template" ;
-    dct:description "A generic and reusable dataset template for open research aligned with FAIR principles, including documentation, metadata, and access policies." ;
+    dct:title "Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland" ;
+    dct:description "This dataset supports research on the recovery of women’s lives from fragmented and underused archives, focusing on the Funeral Entries held in the Genealogical Office of the National Library of Ireland. It enables assesment of AI-powered methods for extracting persons, places, and other entities from early modern manuscripts, and supports the creation of FAIR-aligned humanities data for gender and social history." ;
     dct:creator [
         a foaf:Person ;
+        foaf:name "Bronagh Ann McShane" ;
+        foaf:affiliation "Trinity College Dublin"
+    ], [
+        a foaf:Person ;
         foaf:name "Diego Rincon-Yanez" ;
-        foaf:mbox "mailto:rinconyanezd+ryfor@gmail.com" ;
+        foaf:affiliation "Vienna University of Economics and Business"
+    ], [
+        a foaf:Person ;
+        foaf:name "Felix Vanden Borre" ;
+        foaf:affiliation "Trinity College Dublin"
+    ], [
+        a foaf:Person ;
+        foaf:name "Jane Ohlmeyer" ;
+        foaf:affiliation "Trinity College Dublin"
+    ], [
+        a foaf:Person ;
+        foaf:name "Declan O'Sullivan" ;
         foaf:affiliation "Trinity College Dublin"
     ] ;
-    dct:issued "2025-08-07"^^xsd:date ;
+    dct:issued "2026-01-05"^^xsd:date ;
     dct:language "en" ;
     dct:license <https://creativecommons.org/licenses/by/4.0/> ;
-    dcat:keyword "FAIR data", "Open Science", "Template", "Metadata", "Catalog Integration" ;
+    dcat:keyword "digital humanities", "benchmarking", "named entity recognition", "early modern Ireland", "women’s history", "FAIR data" ;
     dcat:distribution [
         a dcat:Distribution ;
-        dcat:accessURL <https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip> ;
-        dcat:mediaType "application/zip" ;
-        dcat:downloadURL <https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip>
+        dcat:accessURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/tree/main/data/> ;
+        dcat:mediaType "text/json" ;
+        dcat:downloadURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/raw/main/data/scenario_name/data.json>
     ] ;
-    dcat:landingPage <https://github.com/RYFoR/dataset-template> ;
+    dcat:landingPage <https://voicesproject.ie/>, 
+        <https://github.com/RYFoR/VOICES-FuneralEntries-NER>;
     dct:publisher [
         a foaf:Organization ;
-        foaf:name "RYFoR: Rincon-Yanez FAIR Open Research"
+        foaf:name "Trinity College Dublin"
+    ], [
+        a foaf:Organization ;
+        foaf:name "ADAPT Centre"
+    ], [
+        a foaf:Organization ;
+        foaf:name "Vienna University of Economics and Business"
     ] .

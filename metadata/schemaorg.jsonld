@@ -1,30 +1,74 @@
 {
   "@context": "https://schema.org/",
   "@type": "Dataset",
-  "name": "Generic Open Dataset Template",
-  "description": "A reusable dataset template for scientific research aligned with FAIR principles. Includes metadata, codebooks, and catalog interoperability support.",
-  "url": "https://github.com/RYFoR/dataset-template",
+  "name": "Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland",
+  "description": "This dataset supports research on the recovery of women’s lives from fragmented and underused archives, focusing on the Funeral Entries held in the Genealogical Office of the National Library of Ireland. It enablesassesment of the combination of out of the box AI-powered methods for extracting persons, places, and other entities from early modern manuscripts, and supports the creation of FAIR-aligned humanities data for gender and social history.",
+  "url": "https://github.com/RYFoR/VOICES-FuneralEntries-NER",
   "keywords": [
-    "FAIR data",
-    "Open Science",
-    "Metadata",
-    "Template",
-    "Catalog Integration"
+    "digital humanities",
+    "benchmarking",
+    "named entity recognition",
+    "early modern Ireland",
+    "women’s history",
+    "FAIR data"
   ],
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "creator": {
-    "@type": "Person",
-    "name": "Diego Rincon-Yanez",
-    "affiliation": {
-      "@type": "Organization",
-      "name": "Trinity College Dublin"
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Bronagh Ann McShane",
+	  "affiliation": {
+        "@type": "Organization",
+        "name": "Trinity College Dublin"
+      },
+	  "orcid": "https://orcid.org/0000-0001-7760-621X"
+    },
+    {
+      "@type": "Person",
+      "name": "Diego Rincon-Yanez",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Vienna University of Economics and Business"
+      },
+      "orcid": "https://orcid.org/0000-0002-8982-1678"
+    },
+    {
+      "@type": "Person",
+      "name": "Felix Vanden Borre",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Trinity College Dublin"
+      },
+      "orcid": "https://orcid.org/0009-0001-8704-4588"
+    },
+    {
+      "@type": "Person",
+      "name": "Jane Ohlmeyer",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Trinity College Dublin"
+      },
+      "orcid": "https://orcid.org/0000-0002-8982-1678"
+    },
+    {
+      "@type": "Person",
+      "name": "Declan O'Sullivan",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Trinity College Dublin"
+      },
+      "orcid": "https://orcid.org/0000-0003-1090-3548"
     }
-  },
-  "distribution": {
-    "@type": "DataDownload",
-    "contentUrl": "https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip",
-    "encodingFormat": "application/zip"
-  },
-  "version": "3.3.0",
-  "datePublished": "2025-08-07"
+  ],
+  "distribution": [{
+		"@type": "DataDownload",
+		"contentUrl": "https://github.com/RYFoR/dataset-template/archive/refs/heads/main.zip",
+		"encodingFormat": "application/zip"
+	},{
+		"@type": "DataDownload",
+		"contentUrl": "https://github.com/RYFoR/VOICES-FuneralEntries-NER/raw/main/data/",
+		"encodingFormat": "text/json"
+	}],
+	"version": "0.0.1",
+	"datePublished": "2026-01-05"
 }

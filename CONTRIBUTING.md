@@ -1,6 +1,8 @@
 # Contributing Guide
 
-Thank you for considering a contribution to this dataset template project! We welcome community contributions to improve, extend, or adapt this resource for broader scientific and educational use.
+Thank you for considering a contribution to this dataset template project! 
+
+We welcome community contributions to improve, extend, or adapt this resource for broader scientific and educational use.
 
 ## 🤝 Ways to Contribute
 

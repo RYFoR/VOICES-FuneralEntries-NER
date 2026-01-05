@@ -1,67 +1,33 @@
-# 📘 Codebook (Template)
+# Documentation for VOICES-FuneralEntries-NER
 
-This codebook defines the schema of the dataset, including tables, columns, and types. It is designed for reuse across different domains and should be adapted to reflect the actual structure of your dataset.
-
-> ⚠️ **This is a template file**. Replace all placeholder values with your dataset-specific content. This format supports reproducibility, FAIR data sharing, and cross-domain reuse.
+This directory contains supporting documentation and guides for the VOICES-FuneralEntries-NER dataset and assesment experiments. The resources herein are intended to facilitate transparent reuse, reproducibility, and critical engagement with the data, methods, and annotation protocols developed as part of the VOICES project.
 
 ---
 
-## 🧱 Tables Overview
+## Contents
 
-Each section below represents one logical data table or sheet. You may include one or multiple tables depending on your dataset.
+- **Funeral Entry Image Collection**  
+  A curated set of 12 original Funeral Entry images, each corresponding to a unique entry. These images, sourced from the annotated corpus in Transkribus, include the associated crest and title for each entry. This collection provides essential visual context for the manuscript material and supports both manual and automated transcription efforts.
 
-### Table: `Table_Name_1`
+- **Transkribus Annotation Guide**  
+  The official annotation guide for the initial Funeral Entries. This document details the conventions, tag sets, and workflow used in Transkribus for segmenting, transcribing, and annotating the manuscript images. It is intended for researchers seeking to understand or replicate the annotation process.
 
-- **Description**: [Insert short explanation of what this table contains]
-- **Columns**:
-  1. `column_1` (`Data_Type`) — [Brief description]
-  2. `column_2` (`Data_Type`) — [Brief description]
-  3. `column_3` (`Data_Type`) — [Brief description]
+- **Subset Descriptions**  
+  Detailed descriptions of the dataset’s principal subsets:
+  - **Transkribus**: Entries transcribed and annotated using the Transkribus platform, following the project’s established guidelines.
+  - **EyeCR**: Entries processed with EyeCR, including a summary of the tool’s configuration and output characteristics.
+  - **Manual**: Entries transcribed manually. This section outlines the constraints and editorial principles applied, such as normalization practices, treatment of abbreviations, and handling of uncertain readings. The description draws on the project’s internal drafts and expands upon them to provide comprehensive documentation.
 
-### Table: `Table_Name_2`
-
-- **Description**: [Insert short explanation]
-- **Columns**:
-  1. `column_1` (`Data_Type`) — [Brief description]
-  2. `column_2` (`Data_Type`) — [Brief description]
-  3. `column_3` (`Data_Type`) — [Brief description]
-
-### Table: `Table_Name_3`
-
-- **Description**: [Insert short explanation]
-- **Columns**:
-  1. `column_1` (`Data_Type`) — [Brief description]
-  2. `column_2` (`Data_Type`) — [Brief description]
-  3. `column_3` (`Data_Type`) — [Brief description]
+- **Annotation Guide for Results**  
+  A guide to the annotation schema and evaluation criteria used for benchmarking Handwritten Text Recognition (HTR) and Named Entity Recognition (NER) outputs. This document, adapted from previous project drafts, specifies the entity types, tagging conventions, and quality control measures employed in the creation of gold-standard annotations.
 
 ---
 
-## 🔗 Relationships (if applicable)
+## Purpose
 
-Describe any relationships between tables, such as:
+The documentation in this folder is designed to:
+- Provide clear provenance and context for the dataset’s images and transcriptions.
+- Enable other researchers to understand, reproduce, or extend the annotation and benchmarking workflows.
+- Support critical assessment of the dataset’s structure, coverage, and methodological choices.
 
-- Foreign key constraints
-- Joinable fields (e.g., `household_id`)
-- Shared identifiers or time references
-
----
-
-## 📚 Conventions and Notes
-
-- **Naming conventions**: Use `snake_case` or other consistent naming practices
-- **Data types**: Align with common schema practices (Integer, Float, String, Boolean, Date, Categorical)
-- **Versioning**: Update this file as your schema evolves
-
----
-
->## ✍️ Reuse Instructions
->
->This file is designed to be duplicated and customized:
->
->- Replace table and column placeholders with your actual data model
->- Add or remove tables as necessary
->- Link to `data_dictionary.md` for column-level descriptions
->- Use in combination with `schema.yaml` and `catalog.json` for interoperability
->
->This codebook enhances transparency, reproducibility, and the long-term usability of research data.
 
