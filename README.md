@@ -1,6 +1,6 @@
 # 📊 Assesment of Named Entity Recognition (NER) Funeral Entries Manuscripts using NLP techniques
 
-[![DOI: 10.5281/zenodo.XXXXXXX](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1128349506.svg)](https://doi.org/10.5281/zenodo.18174068)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ![FAIR Data](https://img.shields.io/badge/FAIR-Compliant-4db8ff)
