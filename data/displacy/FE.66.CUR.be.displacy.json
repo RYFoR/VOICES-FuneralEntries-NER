@@ -1,0 +1,800 @@
+[
+  {
+    "file_name": "0001_NLI_GO_MS_66_0001r",
+    "text": "Rose daughter of Walter Ball of Dublin Alderman and Mayor, and wife to Luke Challoner Doctor of Divinity by whom she had issue divers children (all dead young one daughter excepted named Phoebe) deceased of the plague the six and twentieth of October ano 1604. and is buried in Trinitiy College by Dublin with most of her issue.\t",
+    "ents": [
+      {
+        "text": "Rose",
+        "start": 0,
+        "end": 4,
+        "label": "PER"
+      },
+      {
+        "text": "Walter Ball",
+        "start": 17,
+        "end": 28,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 32,
+        "end": 38,
+        "label": "LOC"
+      },
+      {
+        "text": "Luke Challoner",
+        "start": 71,
+        "end": 85,
+        "label": "PER"
+      },
+      {
+        "text": "Phoebe",
+        "start": 187,
+        "end": 193,
+        "label": "PER"
+      },
+      {
+        "text": "Trinitiy College",
+        "start": 278,
+        "end": 294,
+        "label": "LOC"
+      },
+      {
+        "text": "Dublin",
+        "start": 298,
+        "end": 304,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0001_NLI_GO_MS_66_0001r",
+    "text": "Mary daughter of James Ryan sometime Sheriff of Dublin and wife to Richard Noble Gentleman, deceased at Thristledermot in December the year of grace 1604 and is buried in Dublin.\t",
+    "ents": [
+      {
+        "text": "Mary",
+        "start": 0,
+        "end": 4,
+        "label": "PER"
+      },
+      {
+        "text": "James Ryan",
+        "start": 17,
+        "end": 27,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 48,
+        "end": 54,
+        "label": "LOC"
+      },
+      {
+        "text": "Richard Noble Gentleman",
+        "start": 67,
+        "end": 90,
+        "label": "PER"
+      },
+      {
+        "text": "Thristledermot",
+        "start": 104,
+        "end": 118,
+        "label": "LOC"
+      },
+      {
+        "text": "Dublin",
+        "start": 171,
+        "end": 177,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0002_NLI_GO_MS_66_0001v",
+    "text": "Mary Lady Tyrell, daughter of Walter Segrave Alderman, Mayor of Dublin, & wife to Sir John Tyrell Knight Alderman and Mayor of the same city: deceased in December 1604. and is, buried in St Audoen’s Church. She had issue Walter, Matthew, Richard, Edward, Cicilie (wife to Nicholas Stevens, sometime sheriff of Dublin) Margaret and three more dead in their infancy.\t",
+    "ents": [
+      {
+        "text": "Mary Lady Tyrell",
+        "start": 0,
+        "end": 16,
+        "label": "PER"
+      },
+      {
+        "text": "Walter Segrave",
+        "start": 30,
+        "end": 44,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 64,
+        "end": 70,
+        "label": "LOC"
+      },
+      {
+        "text": "John Tyrell",
+        "start": 86,
+        "end": 97,
+        "label": "PER"
+      },
+      {
+        "text": "St Audoen ’ s Church",
+        "start": 187,
+        "end": 205,
+        "label": "LOC"
+      },
+      {
+        "text": "Walter",
+        "start": 221,
+        "end": 227,
+        "label": "PER"
+      },
+      {
+        "text": "Matthew",
+        "start": 229,
+        "end": 236,
+        "label": "PER"
+      },
+      {
+        "text": "Richard",
+        "start": 238,
+        "end": 245,
+        "label": "PER"
+      },
+      {
+        "text": "Edward",
+        "start": 247,
+        "end": 253,
+        "label": "PER"
+      },
+      {
+        "text": "Cicilie",
+        "start": 255,
+        "end": 262,
+        "label": "PER"
+      },
+      {
+        "text": "Nicholas Stevens",
+        "start": 272,
+        "end": 288,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 310,
+        "end": 316,
+        "label": "LOC"
+      },
+      {
+        "text": "Margaret",
+        "start": 318,
+        "end": 326,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0002_NLI_GO_MS_66_0001v",
+    "text": "Martin Blake of Athboy, learned in the laws, was buried in the church of Athboy the third of March 1604. He had to wife Elizabeth daughter of Michael Fitz Williams of Donamor, second son of Richard of Merion.\t",
+    "ents": [
+      {
+        "text": "Martin Blake",
+        "start": 0,
+        "end": 12,
+        "label": "PER"
+      },
+      {
+        "text": "Athboy",
+        "start": 16,
+        "end": 22,
+        "label": "LOC"
+      },
+      {
+        "text": "Athboy",
+        "start": 73,
+        "end": 79,
+        "label": "LOC"
+      },
+      {
+        "text": "Elizabeth",
+        "start": 120,
+        "end": 129,
+        "label": "PER"
+      },
+      {
+        "text": "Michael Fitz Williams",
+        "start": 142,
+        "end": 163,
+        "label": "PER"
+      },
+      {
+        "text": "Donamor",
+        "start": 167,
+        "end": 174,
+        "label": "LOC"
+      },
+      {
+        "text": "Richard of",
+        "start": 190,
+        "end": 200,
+        "label": "PER"
+      },
+      {
+        "text": "Merion",
+        "start": 201,
+        "end": 207,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0003_NLI_GO_MS_66_0002r",
+    "text": "Peter Bolton Provost Marshall of Leinster deceased the fourth of March 1604 of a wound which some days before he received in the streets of Dublin.\t",
+    "ents": [
+      {
+        "text": "Peter Bolton",
+        "start": 0,
+        "end": 12,
+        "label": "PER"
+      },
+      {
+        "text": "Leinster",
+        "start": 33,
+        "end": 41,
+        "label": "LOC"
+      },
+      {
+        "text": "Dublin",
+        "start": 140,
+        "end": 146,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0003_NLI_GO_MS_66_0002r",
+    "text": "Adam Loftus Lord Archbishop of Dublin & Lord Chancellor and thrice Lord Justice of Ireland had to wife Jane daughter of James Pourdon Gentleman by whom he had issue Sir Dudley Loftus,  Sr Edward Loftus, Captain Adam Loftus,  Sr Thomas Loftus Knight and Henry Loftus, besides many other sons dead young: Margaret wife to Sir George Colley Knight, Isabel\t",
+    "ents": [
+      {
+        "text": "Adam Loftus",
+        "start": 0,
+        "end": 11,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 31,
+        "end": 37,
+        "label": "LOC"
+      },
+      {
+        "text": "Ireland",
+        "start": 83,
+        "end": 90,
+        "label": "LOC"
+      },
+      {
+        "text": "Jane",
+        "start": 103,
+        "end": 107,
+        "label": "PER"
+      },
+      {
+        "text": "James Pourdon",
+        "start": 120,
+        "end": 133,
+        "label": "PER"
+      },
+      {
+        "text": "Dudley Loftus",
+        "start": 169,
+        "end": 182,
+        "label": "PER"
+      },
+      {
+        "text": "Edward Loftus",
+        "start": 188,
+        "end": 201,
+        "label": "PER"
+      },
+      {
+        "text": "Adam Loftus",
+        "start": 211,
+        "end": 222,
+        "label": "PER"
+      },
+      {
+        "text": "Thomas Loftus Knight",
+        "start": 228,
+        "end": 248,
+        "label": "PER"
+      },
+      {
+        "text": "Henry Loftus",
+        "start": 253,
+        "end": 265,
+        "label": "PER"
+      },
+      {
+        "text": "Margaret",
+        "start": 303,
+        "end": 311,
+        "label": "PER"
+      },
+      {
+        "text": "George Colley Knight",
+        "start": 324,
+        "end": 344,
+        "label": "PER"
+      },
+      {
+        "text": "Isabel",
+        "start": 346,
+        "end": 352,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0004_NLI_GO_MS_66_0002v",
+    "text": "Isabell  to Sir William Ussher Knight, Ales to Sir Henry Warren Knight, Martha to Sir Thomas Colclough Knight, Anne, first to Captain Henry Colley, 2. to Captain George Blount, and 3. to Sir Edward Blaney Knight. Jane to Sir Francis Berkley Knight, and Dorothie to Sir John More Knight. The Lord Chancellor deceased at St. Sepulchre the first of Aprill 1605, the 72. year of his age, the 24 year of his Chancellorship and of his consecration, and is buried in St Patrick’s Dublin.\t",
+    "ents": [
+      {
+        "text": "Isabell",
+        "start": 0,
+        "end": 7,
+        "label": "PER"
+      },
+      {
+        "text": "William Ussher Knight",
+        "start": 16,
+        "end": 37,
+        "label": "PER"
+      },
+      {
+        "text": "Ales",
+        "start": 39,
+        "end": 43,
+        "label": "PER"
+      },
+      {
+        "text": "Henry Warren Knight",
+        "start": 51,
+        "end": 70,
+        "label": "PER"
+      },
+      {
+        "text": "Martha",
+        "start": 72,
+        "end": 78,
+        "label": "PER"
+      },
+      {
+        "text": "Thomas Colclough Knight",
+        "start": 86,
+        "end": 109,
+        "label": "PER"
+      },
+      {
+        "text": "Anne",
+        "start": 111,
+        "end": 115,
+        "label": "PER"
+      },
+      {
+        "text": "Henry Colley",
+        "start": 134,
+        "end": 146,
+        "label": "PER"
+      },
+      {
+        "text": "George Blount",
+        "start": 162,
+        "end": 175,
+        "label": "PER"
+      },
+      {
+        "text": "Edward Blaney Knight",
+        "start": 191,
+        "end": 211,
+        "label": "PER"
+      },
+      {
+        "text": "Jane",
+        "start": 213,
+        "end": 217,
+        "label": "PER"
+      },
+      {
+        "text": "Francis Berkley Knight",
+        "start": 225,
+        "end": 247,
+        "label": "PER"
+      },
+      {
+        "text": "Dorothie",
+        "start": 253,
+        "end": 261,
+        "label": "PER"
+      },
+      {
+        "text": "John More Knight",
+        "start": 269,
+        "end": 285,
+        "label": "PER"
+      },
+      {
+        "text": "St",
+        "start": 319,
+        "end": 321,
+        "label": "LOC"
+      },
+      {
+        "text": "Sepulchre",
+        "start": 323,
+        "end": 332,
+        "label": "LOC"
+      },
+      {
+        "text": "St Patrick",
+        "start": 460,
+        "end": 470,
+        "label": "LOC"
+      },
+      {
+        "text": "Dublin",
+        "start": 473,
+        "end": 479,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0004_NLI_GO_MS_66_0002v",
+    "text": "Winifrid daughter of Antonio Toto a Florentine of King Henry VIII’s Privy Chamber and his Serjeant Painter) and wife to Sir Charles Calthorpe Knight (sometime Attorney General and now one of the Justices of the Common Pleas deceased the first of Auguste 1605. She left no issue by Sir Charles.\t",
+    "ents": [
+      {
+        "text": "Winifrid",
+        "start": 0,
+        "end": 8,
+        "label": "PER"
+      },
+      {
+        "text": "Antonio Toto",
+        "start": 21,
+        "end": 33,
+        "label": "PER"
+      },
+      {
+        "text": "Florentin",
+        "start": 36,
+        "end": 45,
+        "label": "LOC"
+      },
+      {
+        "text": "Henry VIII",
+        "start": 55,
+        "end": 65,
+        "label": "PER"
+      },
+      {
+        "text": "Charles Calthorpe Knight",
+        "start": 124,
+        "end": 148,
+        "label": "PER"
+      },
+      {
+        "text": "Charles",
+        "start": 285,
+        "end": 292,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0005_NLI_GO_MS_66_0003r",
+    "text": "William Fitz Williams of Jobstown deceased of the plague at Merion the xxiii of August 1605: he did a few weeks before marry Gennet daughter of Gerald Birne of Ballyhorsey and had no issue, he is buried in the church of Tallaght.\t",
+    "ents": [
+      {
+        "text": "William Fitz Williams",
+        "start": 0,
+        "end": 21,
+        "label": "PER"
+      },
+      {
+        "text": "Jobstown",
+        "start": 25,
+        "end": 33,
+        "label": "LOC"
+      },
+      {
+        "text": "Merion",
+        "start": 60,
+        "end": 66,
+        "label": "LOC"
+      },
+      {
+        "text": "Gennet",
+        "start": 125,
+        "end": 131,
+        "label": "PER"
+      },
+      {
+        "text": "Gerald Birne",
+        "start": 144,
+        "end": 156,
+        "label": "PER"
+      },
+      {
+        "text": "Ballyhorsey",
+        "start": 160,
+        "end": 171,
+        "label": "LOC"
+      },
+      {
+        "text": "Tallaght",
+        "start": 220,
+        "end": 228,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0005_NLI_GO_MS_66_0003r",
+    "text": "Sir George Bourchier Knight Master of the Ordinance and of the Privy Council of Ireland, 3. son to John Earl of Bath, had to wife Martha sister of Charles Howard Earl of Nottingham etc. by whom he left issue Thomas, John and Henry. He deceased the xxiiii. September 1605. and is buried in Christ Church Dublin. ",
+    "ents": [
+      {
+        "text": "George Bourchier",
+        "start": 4,
+        "end": 20,
+        "label": "PER"
+      },
+      {
+        "text": "John Earl",
+        "start": 99,
+        "end": 108,
+        "label": "PER"
+      },
+      {
+        "text": "Bath",
+        "start": 112,
+        "end": 116,
+        "label": "PER"
+      },
+      {
+        "text": "Martha",
+        "start": 130,
+        "end": 136,
+        "label": "PER"
+      },
+      {
+        "text": "Charles Howard",
+        "start": 147,
+        "end": 161,
+        "label": "PER"
+      },
+      {
+        "text": "Thomas",
+        "start": 208,
+        "end": 214,
+        "label": "PER"
+      },
+      {
+        "text": "John",
+        "start": 216,
+        "end": 220,
+        "label": "PER"
+      },
+      {
+        "text": "Henry",
+        "start": 225,
+        "end": 230,
+        "label": "PER"
+      },
+      {
+        "text": "Christ Church Dublin",
+        "start": 289,
+        "end": 309,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0006_NLI_GO_MS_66_0003v",
+    "text": "James Taylor Sheriff of Dublin deceased the twentieth of December 1605.\t",
+    "ents": [
+      {
+        "text": "James Taylor",
+        "start": 0,
+        "end": 12,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 24,
+        "end": 30,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0006_NLI_GO_MS_66_0003v",
+    "text": "John Barnewall of Brimore had to wife Eleonor daughter of Sir James Dowdall Knight, Chief Justice of the King’s Bench by whom he had issue James, Richard, Edward, Peter, Patrick, Robert & Andrew: Margaret wife to Edward Taafe of Cookston, Mary to James Fleming of Derpatrick, Elizabeth to Richard Vernon of Stabannon, Ismay, Ales, Katherine, Anne, Brigid, Ursula, & Eleonor. He deceased at Brimore the xv. of February 1605. & is buried at Balrothery.\t",
+    "ents": [
+      {
+        "text": "John Barnewall",
+        "start": 0,
+        "end": 14,
+        "label": "PER"
+      },
+      {
+        "text": "Brimore",
+        "start": 18,
+        "end": 25,
+        "label": "LOC"
+      },
+      {
+        "text": "Eleonor",
+        "start": 38,
+        "end": 45,
+        "label": "PER"
+      },
+      {
+        "text": "James Dowdall Knight",
+        "start": 62,
+        "end": 82,
+        "label": "PER"
+      },
+      {
+        "text": "James",
+        "start": 139,
+        "end": 144,
+        "label": "PER"
+      },
+      {
+        "text": "Richard",
+        "start": 146,
+        "end": 153,
+        "label": "PER"
+      },
+      {
+        "text": "Edward",
+        "start": 155,
+        "end": 161,
+        "label": "PER"
+      },
+      {
+        "text": "Peter",
+        "start": 163,
+        "end": 168,
+        "label": "PER"
+      },
+      {
+        "text": "Patrick",
+        "start": 170,
+        "end": 177,
+        "label": "PER"
+      },
+      {
+        "text": "Robert",
+        "start": 179,
+        "end": 185,
+        "label": "PER"
+      },
+      {
+        "text": "Andrew",
+        "start": 188,
+        "end": 194,
+        "label": "PER"
+      },
+      {
+        "text": "Margaret",
+        "start": 196,
+        "end": 204,
+        "label": "PER"
+      },
+      {
+        "text": "Edward Taafe",
+        "start": 213,
+        "end": 225,
+        "label": "PER"
+      },
+      {
+        "text": "Cookston",
+        "start": 229,
+        "end": 237,
+        "label": "LOC"
+      },
+      {
+        "text": "Mary",
+        "start": 239,
+        "end": 243,
+        "label": "PER"
+      },
+      {
+        "text": "James Fleming",
+        "start": 247,
+        "end": 260,
+        "label": "PER"
+      },
+      {
+        "text": "Derpatrick",
+        "start": 264,
+        "end": 274,
+        "label": "LOC"
+      },
+      {
+        "text": "Elizabeth",
+        "start": 276,
+        "end": 285,
+        "label": "PER"
+      },
+      {
+        "text": "Richard Vernon",
+        "start": 289,
+        "end": 303,
+        "label": "PER"
+      },
+      {
+        "text": "Stabannon",
+        "start": 307,
+        "end": 316,
+        "label": "LOC"
+      },
+      {
+        "text": "Ismay",
+        "start": 318,
+        "end": 323,
+        "label": "PER"
+      },
+      {
+        "text": "Ales",
+        "start": 325,
+        "end": 329,
+        "label": "PER"
+      },
+      {
+        "text": "Katherine",
+        "start": 331,
+        "end": 340,
+        "label": "PER"
+      },
+      {
+        "text": "Anne",
+        "start": 342,
+        "end": 346,
+        "label": "PER"
+      },
+      {
+        "text": "Brigid",
+        "start": 348,
+        "end": 354,
+        "label": "PER"
+      },
+      {
+        "text": "Ursula",
+        "start": 356,
+        "end": 362,
+        "label": "PER"
+      },
+      {
+        "text": "Eleonor",
+        "start": 366,
+        "end": 373,
+        "label": "PER"
+      },
+      {
+        "text": "Brimore",
+        "start": 390,
+        "end": 397,
+        "label": "LOC"
+      },
+      {
+        "text": "Balrothery",
+        "start": 439,
+        "end": 449,
+        "label": "LOC"
+      }
+    ]
+  }
+]

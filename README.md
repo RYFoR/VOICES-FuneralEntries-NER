@@ -33,10 +33,15 @@ It aims to support the evaluation of reusable workflows, annotated gold standard
 
 ```
 📦 VOICES-FUNERALENTRIES-NER/
-├── data/raw/                  # Original data files
-├── data/<COLLECTION_NAME>/    # Input Files for each Collection e.g. Manual, VARD, etc.
+├── data/
+│   ├── annotation/        # Annotation files and guidelines
+│   ├── displacy/          # NER visualization outputs (displacy JSON)
+│   ├── ner/               # NER outputs
+│   ├── raw/               # Original, unprocessed data files
+│   ├── transcriptions/    # Transcription CSV files for each variant
+│   └── validation/        # Validated entity files
 ├── docs/                      # Documentation and Curation Guides
-├── notebooks/                 # 
+├── notebooks/                 # Used notebooks
 ├── metadata/                  # Metadata catalog and schema
 ├── fair/                      # FAIR machine-readable metadata
 ├── .zenodo.json

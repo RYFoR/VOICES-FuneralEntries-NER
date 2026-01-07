@@ -1,0 +1,97 @@
+text,start,end,label,confidence,method,entry,FileName,validation
+Dublin,32,38.0,LOC,0.9952,stanford,1,1,1
+Luke Challoner,71,85.0,PER,0.991,stanford,1,1,1
+Phoebe,194,200.0,PER,0.9299,stanford,1,1,1
+Dublin,303,309.0,LOC,0.997,stanford,1,1,1
+her,324,327.0,PER,-2.0,stanford,1,1,0
+Mary,0,4.0,PER,0.7842,stanford,2,2,1
+Shreve,37,43.0,PER,0.9382,stanford,2,2,0
+Dublin,47,53.0,LOC,0.9964,stanford,2,2,1
+Richard Noble,66,79.0,PER,0.9354,stanford,2,2,1
+Dublin,171,177.0,LOC,0.9998,stanford,2,2,1
+Mary Lady Tyrell,0,16.0,PER,0.9989,stanford,3,3,1
+Dublin,57,63.0,LOC,0.999,stanford,3,3,1
+John Tyrell,78,89.0,PER,0.7986,stanford,3,3,1
+Shee,195,199.0,PER,0.9526,stanford,3,3,0
+Edward,235,241.0,PER,0.9309,stanford,3,3,1
+Cicilie,243,250.0,PER,0.4609,stanford,3,3,1
+Nichas Stevens,260,274.0,PER,0.9971,stanford,3,3,1
+Dublin,297,303.0,LOC,0.998,stanford,3,3,1
+Martin Blake,0,12.0,PER,0.9991,stanford,4,4,1
+Elizabeth,117,126.0,PER,0.9971,stanford,4,4,1
+Michael Fitz,139,151.0,PER,0.9992,stanford,4,4,2
+Donamore,170,178.0,LOC,0.4236,stanford,4,4,1
+Richard,196,203.0,PER,0.9225,stanford,4,4,1
+He,102,104.0,PER,-2.0,stanford,4,4,0
+Peter Bolton,0,12.0,PER,0.9956,stanford,5,5,1
+Leinster,32,40.0,LOC,0.6331,stanford,5,5,1
+Dublin,139,145.0,LOC,0.9987,stanford,5,5,1
+he,109,111.0,PER,-2.0,stanford,5,5,0
+Adam Loftus,0,11.0,PER,0.9974,stanford,6,6;7,1
+Lo,13,15.0,PER,0.8329,stanford,6,6;7,0
+Dublin,27,33.0,LOC,0.9598,stanford,6,6;7,1
+Irelande,79,87.0,LOC,0.6158,stanford,6,6;7,1
+Jane da,101,108.0,PER,0.8182,stanford,6,6;7,2
+James Pourdon,113,126.0,PER,0.9941,stanford,6,6;7,1
+Dudley Lo,158,167.0,PER,0.9935,stanford,6,6;7,1
+Edward Lo,175,184.0,PER,0.9953,stanford,6,6;7,1
+Adam Lo,193,200.0,PER,0.9857,stanford,6,6;7,1
+Thomas Loftus,205,218.0,PER,0.9903,stanford,6,6;7,1
+Henry Loftus,230,242.0,PER,0.9991,stanford,6,6;7,1
+he,142,144.0,PER,-2.0,stanford,6,6;7,0
+Isabell,324,331.0,PER,0.8571,stanford,6,6;7,1
+Anne firste,431,442.0,PER,0.4751,stanford,6,6;7,2
+Henry Colley,451,463.0,PER,0.9987,stanford,6,6;7,1
+George Blounte,476,490.0,PER,0.9858,stanford,6,6;7,1
+Edward Blaney,505,518.0,PER,0.9937,stanford,6,6;7,1
+Jane,527,531.0,PER,0.9845,stanford,6,6;7,1
+Francis Berkley,538,553.0,PER,0.8813,stanford,6,6;7,1
+John More,581,590.0,PER,0.5262,stanford,6,6;7,1
+his,686,689.0,PER,-2.0,stanford,6,6;7,0
+Dublin,787,793.0,LOC,0.9692,stanford,6,6;7,1
+his,710,713.0,PER,-2.0,stanford,6,6;7,0
+his,737,740.0,PER,-2.0,stanford,6,6;7,0
+Florentin,31,40.0,PER,0.6691,stanford,7,8,0
+Charles Calthorpe Knight,115,139.0,PER,0.9675,stanford,7,8,2
+his,76,79.0,PER,-2.0,stanford,7,8,0
+Charles,278,285.0,PER,0.9866,stanford,7,8,1
+She,252,255.0,PER,-2.0,stanford,7,8,0
+William Fitz-williams,0,21.0,PER,0.9828,stanford,8,9,1
+Jobston,25,32.0,LOC,0.5518,stanford,8,9,1
+Bennet,122,128.0,PER,0.9329,stanford,8,9,1
+Gerald Byrne,136,148.0,PER,0.9996,stanford,8,9,1
+Talaugh,209,216.0,LOC,0.5268,stanford,8,9,1
+he,89,91.0,PER,-2.0,stanford,8,9,0
+he,183,185.0,PER,-2.0,stanford,8,9,0
+S. George Bouchier,0,18.0,PER,0.9862,stanford,9,10,2
+Jo,97,99.0,PER,0.8418,stanford,9,10,1
+Cresset,101,108.0,PER,0.6966,stanford,9,10,0
+Plath,112,117.0,PER,0.6969,stanford,9,10,0
+Charles Howard,149,163.0,PER,0.9984,stanford,9,10,1
+Thomas John,203,214.0,PER,0.9966,stanford,9,10,2
+Henry,219,224.0,PER,0.9812,stanford,9,10,1
+he,188,190.0,PER,-2.0,stanford,9,10,0
+He,226,228.0,PER,-2.0,stanford,9,10,0
+Dublin,292,298.0,LOC,0.9752,stanford,9,10,1
+James Taylour Shireve,0,21.0,PER,0.9994,stanford,10,11,2
+Dublin,25,31.0,LOC,0.9966,stanford,10,11,1
+John Barnewall,0,14.0,PER,0.9998,stanford,11,12,1
+Brimore,18,25.0,LOC,0.4739,stanford,11,12,1
+Eleonor,37,44.0,PER,0.8867,stanford,11,12,1
+James Dowdall,56,69.0,PER,0.9995,stanford,11,12,1
+James,127,132.0,PER,0.8397,stanford,11,12,1
+Richard,134,141.0,PER,0.9883,stanford,11,12,1
+Edward,143,149.0,PER,0.9593,stanford,11,12,1
+Peter,151,156.0,PER,0.9274,stanford,11,12,1
+Paterick,158,166.0,LOC,0.6837,stanford,11,12,0
+Robart,168,174.0,PER,0.7782,stanford,11,12,1
+Taafe,203,208.0,PER,0.9527,stanford,11,12,2
+Mary,224,228.0,PER,0.981,stanford,11,12,1
+Elizab,262,268.0,PER,0.6601,stanford,11,12,1
+Stabannan,289,298.0,LOC,0.6931,stanford,11,12,1
+Brigid,328,334.0,PER,0.4726,stanford,11,12,1
+Ursula,336,342.0,PER,0.8891,stanford,11,12,1
+Eleonor,346,353.0,PER,0.8724,stanford,11,12,1
+he,114,116.0,PER,-2.0,stanford,11,12,0
+He,355,357.0,PER,-2.0,stanford,11,12,0
+Balrothrie,411,421.0,LOC,0.8441,stanford,11,12,1

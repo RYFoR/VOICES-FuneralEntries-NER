@@ -1,0 +1,122 @@
+text,start,end,label,confidence,method,validation
+Rose,0,4,PER,0.9926,bert,1
+Walter Ball,17,28,PER,0.9983,bert,1
+Dublin,32,38,LOC,0.9909,bert,1
+Luke Challoner,71,85,PER,0.9765,bert,1
+Phoebe,187,193,PER,0.9972,bert,1
+Trinitiy College,278,294,LOC,0.665,bert,2
+Dublin,298,304,LOC,0.9976,bert,2
+Mary,0,4,PER,0.998,bert,1
+James Ryan,17,27,PER,0.9991,bert,1
+Dublin,48,54,LOC,0.9958,bert,1
+Richard Noble Gentleman,67,90,PER,0.9841,bert,2
+Thristledermot,104,118,LOC,0.9274,bert,1
+Dublin,171,177,LOC,0.999,bert,1
+Mary Lady Tyrell,0,16,PER,0.9789,bert,2
+Walter Segrave,30,44,PER,0.9793,bert,1
+Dublin,64,70,LOC,0.9958,bert,1
+John Tyrell,86,97,PER,0.99,bert,1
+St Audoen ’ s Church,187,205,LOC,0.8994,bert,1
+Walter,221,227,PER,0.9982,bert,1
+Matthew,229,236,PER,0.9989,bert,1
+Richard,238,245,PER,0.9986,bert,1
+Edward,247,253,PER,0.9985,bert,1
+Cicilie,255,262,PER,0.9904,bert,1
+Nicholas Stevens,272,288,PER,0.9993,bert,1
+Dublin,310,316,LOC,0.9962,bert,1
+Margaret,318,326,PER,0.9974,bert,1
+Martin Blake,0,12,PER,0.9993,bert,1
+Athboy,16,22,LOC,0.9832,bert,1
+Athboy,73,79,LOC,0.9914,bert,1
+Elizabeth,120,129,PER,0.9964,bert,1
+Michael Fitz Williams,142,163,PER,0.9559,bert,1
+Donamor,167,174,LOC,0.7287,bert,1
+Richard of,190,200,PER,0.7747,bert,1
+Merion,201,207,LOC,0.5183,bert,1
+Peter Bolton,0,12,PER,0.9989,bert,1
+Leinster,33,41,LOC,0.6225,bert,1
+Dublin,140,146,LOC,0.9994,bert,1
+Adam Loftus,0,11,PER,0.8743,bert,1
+Dublin,31,37,LOC,0.9931,bert,1
+Ireland,83,90,LOC,0.9568,bert,1
+Jane,103,107,PER,0.9967,bert,1
+James Pourdon,120,133,PER,0.8706,bert,1
+Dudley Loftus,169,182,PER,0.9475,bert,1
+Edward Loftus,188,201,PER,0.9506,bert,1
+Adam Loftus,211,222,PER,0.9423,bert,1
+Thomas Loftus Knight,228,248,PER,0.8753,bert,2
+Henry Loftus,253,265,PER,0.9248,bert,1
+Margaret,303,311,PER,0.9981,bert,1
+George Colley Knight,324,344,PER,0.982,bert,2
+Isabel,346,352,PER,0.9977,bert,1
+Isabell,0,7,PER,0.7648,bert,1
+William Ussher Knight,16,37,PER,0.9912,bert,2
+Ales,39,43,PER,0.8593,bert,1
+Henry Warren Knight,51,70,PER,0.9974,bert,2
+Martha,72,78,PER,0.9958,bert,1
+Thomas Colclough Knight,86,109,PER,0.901,bert,2
+Anne,111,115,PER,0.9972,bert,1
+Henry Colley,134,146,PER,0.9931,bert,1
+George Blount,162,175,PER,0.9208,bert,1
+Edward Blaney Knight,191,211,PER,0.9207,bert,2
+Jane,213,217,PER,0.9978,bert,1
+Francis Berkley Knight,225,247,PER,0.9587,bert,2
+Dorothie,253,261,PER,0.9233,bert,1
+John More Knight,269,285,PER,0.9973,bert,2
+St,319,321,LOC,0.9947,bert,2
+Sepulchre,323,332,LOC,0.9372,bert,2
+St Patrick,460,470,LOC,0.984,bert,2
+Dublin,473,479,LOC,0.9982,bert,2
+Winifrid,0,8,PER,0.9083,bert,1
+Antonio Toto,21,33,PER,0.9908,bert,1
+Florentin,36,45,LOC,0.6757,bert,0
+Henry VIII,55,65,PER,0.8977,bert,1
+Charles Calthorpe Knight,124,148,PER,0.991,bert,2
+Charles,285,292,PER,0.9972,bert,1
+William Fitz Williams,0,21,PER,0.9908,bert,1
+Jobstown,25,33,LOC,0.9603,bert,1
+Merion,60,66,LOC,0.9797,bert,1
+Gennet,125,131,PER,0.9868,bert,1
+Gerald Birne,144,156,PER,0.9842,bert,1
+Ballyhorsey,160,171,LOC,0.8206,bert,1
+Tallaght,220,228,LOC,0.9764,bert,1
+George Bourchier,4,20,PER,0.9053,bert,1
+John Earl,99,108,PER,0.9644,bert,2
+Bath,112,116,PER,0.6607,bert,0
+Martha,130,136,PER,0.9882,bert,1
+Charles Howard,147,161,PER,0.9949,bert,1
+Thomas,208,214,PER,0.9958,bert,1
+John,216,220,PER,0.9954,bert,1
+Henry,225,230,PER,0.9959,bert,1
+Christ Church Dublin,289,309,LOC,0.996,bert,1
+James Taylor,0,12,PER,0.9993,bert,1
+Dublin,24,30,LOC,0.9762,bert,1
+John Barnewall,0,14,PER,0.9819,bert,1
+Brimore,18,25,LOC,0.792,bert,1
+Eleonor,38,45,PER,0.9881,bert,1
+James Dowdall Knight,62,82,PER,0.9195,bert,2
+James,139,144,PER,0.9984,bert,1
+Richard,146,153,PER,0.999,bert,1
+Edward,155,161,PER,0.9986,bert,1
+Peter,163,168,PER,0.999,bert,1
+Patrick,170,177,PER,0.999,bert,1
+Robert,179,185,PER,0.999,bert,1
+Andrew,188,194,PER,0.9988,bert,1
+Margaret,196,204,PER,0.9975,bert,1
+Edward Taafe,213,225,PER,0.938,bert,1
+Cookston,229,237,LOC,0.8047,bert,1
+Mary,239,243,PER,0.9985,bert,1
+James Fleming,247,260,PER,0.9981,bert,1
+Derpatrick,264,274,LOC,0.7585,bert,1
+Elizabeth,276,285,PER,0.9978,bert,1
+Richard Vernon,289,303,PER,0.9976,bert,1
+Stabannon,307,316,LOC,0.7191,bert,1
+Ismay,318,323,PER,0.9312,bert,1
+Ales,325,329,PER,0.9511,bert,1
+Katherine,331,340,PER,0.9985,bert,1
+Anne,342,346,PER,0.999,bert,1
+Brigid,348,354,PER,0.9612,bert,1
+Ursula,356,362,PER,0.9985,bert,1
+Eleonor,366,373,PER,0.9846,bert,1
+Brimore,390,397,LOC,0.9177,bert,1
+Balrothery,439,449,LOC,0.8308,bert,1

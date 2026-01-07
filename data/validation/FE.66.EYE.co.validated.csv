@@ -1,0 +1,95 @@
+text,start,end,label,confidence,method,entry,file_name,validation
+Dublin,303.0,309.0,LOC,0.997,stanford,1,1,1
+Phoebe,194.0,200.0,PER,0.9967,bert,1,1,1
+Rose,0.0,4.0,PER,0.9948,bert,1,1,1
+Luke Challoner,71.0,85.0,PER,0.991,stanford,1,1,1
+walter Ball,17.0,28.0,PER,0.7832,bert,1,1,1
+Dublin,171.0,177.0,LOC,0.9998,stanford,2,2,1
+Richard Noble,66.0,79.0,PER,0.9982,bert,2,2,1
+Mary,0.0,4.0,PER,0.9979,bert,2,2,1
+Shreve,37.0,43.0,PER,0.9382,stanford,2,2,0
+Dublin,57.0,63.0,LOC,0.999,stanford,3,3,1
+Mary Lady Tyrell,0.0,16.0,PER,0.9989,stanford,3,3,1
+Edward,235.0,241.0,PER,0.9984,bert,3,3,1
+Nichas Stevens,260.0,274.0,PER,0.998,bert,3,3,1
+Cicilie,243.0,250.0,PER,0.9814,bert,3,3,1
+Shee,195.0,199.0,PER,0.9526,stanford,3,3,0
+John Tyrell,78.0,89.0,PER,0.9086,bert,3,3,1
+Alethe richa de,218.0,233.0,PER,0.7666,bert,3,3,2
+Michael Fitz,139.0,151.0,PER,0.9992,stanford,4,4,2
+Martin Blake,0.0,12.0,PER,0.9991,stanford,4,4,1
+Elizabeth,117.0,126.0,PER,0.9971,stanford,4,4,1
+Richard,196.0,203.0,PER,0.9948,bert,4,4,1
+Athboy,69.0,75.0,LOC,0.9917,bert,4,4,1
+Peter Bolton,0.0,12.0,PER,0.9989,bert,5,5,1
+Dublin,139.0,145.0,LOC,0.9987,stanford,5,5,1
+Leinster,32.0,40.0,LOC,0.8078,bert,5,5,1
+John More,581.0,590.0,PER,0.9991,bert,6,6;7,1
+Henry Loftus,230.0,242.0,PER,0.9991,stanford,6,6;7,1
+Henry Colley,451.0,463.0,PER,0.9987,stanford,6,6;7,1
+Jane,527.0,531.0,PER,0.9985,bert,6,6;7,1
+Adam Loftus,0.0,11.0,PER,0.9974,stanford,6,6;7,1
+Adam,193.0,197.0,PER,0.9956,bert,6,6;7,2
+Edward Lo,175.0,184.0,PER,0.9953,stanford,6,6;7,1
+James Pourdon,113.0,126.0,PER,0.9941,stanford,6,6;7,1
+Edward Blaney,505.0,518.0,PER,0.9937,stanford,6,6;7,1
+Dudley Lo,158.0,167.0,PER,0.9935,stanford,6,6;7,1
+Anne,431.0,435.0,PER,0.9927,bert,6,6;7,1
+Thomas Loftus,205.0,218.0,PER,0.9903,stanford,6,6;7,1
+George Blounte,476.0,490.0,PER,0.9858,stanford,6,6;7,1
+Adam Lo,193.0,200.0,PER,0.9857,stanford,6,6;7,1
+Dublin,787.0,793.0,LOC,0.9814,bert,6,6;7,1
+william Ussher,338.0,352.0,PER,0.9779,bert,6,6;7,1
+Francis Berkley,538.0,553.0,PER,0.9568,bert,6,6;7,1
+Dorothie,566.0,574.0,PER,0.9497,bert,6,6;7,1
+Cha,607.0,610.0,PER,0.8969,bert,6,6;7,0
+Isabell,324.0,331.0,PER,0.8768,bert,6,6;7,1
+Lo,13.0,15.0,PER,0.8329,stanford,6,6;7,0
+Jane da,101.0,108.0,PER,0.8182,stanford,6,6;7,2
+##nery,374.0,378.0,PER,0.7964,bert,6,6;7,2
+##celour,612.0,618.0,PER,0.7398,bert,6,6;7,0
+Charles,278.0,285.0,PER,0.9982,bert,7,8,1
+Charles Calthorpe Knight,115.0,139.0,PER,0.989,bert,7,8,2
+Winifrid,0.0,8.0,PER,0.962,bert,7,8,1
+Florentin,31.0,40.0,PER,0.8091,bert,7,8,0
+Gerald Byrne,136.0,148.0,PER,0.9996,stanford,8,9,1
+Bennet,122.0,128.0,PER,0.9909,bert,8,9,1
+William Fitz-williams,0.0,21.0,PER,0.9828,stanford,8,9,1
+William Fitz,0.0,12.0,PER,0.9699,bert,8,9,2
+williams,13.0,21.0,PER,0.8843,bert,8,9,2
+Talaugh,209.0,216.0,LOC,0.8833,bert,8,9,1
+Jobston,25.0,32.0,LOC,0.8549,bert,8,9,1
+Ireland,77.0,84.0,LOC,0.9991,bert,9,10,0
+Charles Howard,149.0,163.0,PER,0.9984,stanford,9,10,1
+Thomas John,203.0,214.0,PER,0.9966,stanford,9,10,2
+Henry,219.0,224.0,PER,0.9948,bert,9,10,1
+S,0.0,1.0,PER,0.9927,bert,9,10,0
+S. George Bouchier,0.0,18.0,PER,0.9862,stanford,9,10,2
+Dublin,292.0,298.0,LOC,0.9752,stanford,9,10,1
+George Bouchier,3.0,18.0,PER,0.9466,bert,9,10,1
+Jo : Cresset,97.0,108.0,PER,0.9046,bert,9,10,2
+Jo,97.0,99.0,PER,0.8418,stanford,9,10,1
+Noting,167.0,173.0,LOC,0.7338,bert,9,10,1
+James Taylour Shireve,0.0,21.0,PER,0.9994,stanford,10,11,2
+Dublin,25.0,31.0,LOC,0.9973,bert,10,11,1
+John Barnewall,0.0,14.0,PER,0.9998,stanford,11,12,1
+James Dowdall,56.0,69.0,PER,0.9995,stanford,11,12,1
+Peter,151.0,156.0,PER,0.9994,bert,11,12,1
+Richard,134.0,141.0,PER,0.9993,bert,11,12,1
+Anne,322.0,326.0,PER,0.9993,bert,11,12,1
+Ursula,336.0,342.0,PER,0.9992,bert,11,12,1
+James,127.0,132.0,PER,0.9992,bert,11,12,1
+Edward,143.0,149.0,PER,0.9991,bert,11,12,1
+Andrew,177.0,183.0,PER,0.999,bert,11,12,1
+Mary,224.0,228.0,PER,0.9987,bert,11,12,1
+Paterick,158.0,166.0,PER,0.9983,bert,11,12,1
+Vernon,279.0,285.0,PER,0.9965,bert,11,12,2
+Robart,168.0,174.0,PER,0.9962,bert,11,12,1
+Eleonor,346.0,353.0,PER,0.9932,bert,11,12,1
+Ales,306.0,310.0,PER,0.9835,bert,11,12,1
+Ed,198.0,200.0,PER,0.9822,bert,11,12,2
+Brigid,328.0,334.0,PER,0.9778,bert,11,12,1
+Taafe,203.0,208.0,PER,0.9527,stanford,11,12,2
+Eliza,262.0,267.0,PER,0.9458,bert,11,12,2
+Balrothrie,411.0,421.0,LOC,0.8441,stanford,11,12,1
+Brimore,369.0,376.0,LOC,0.8178,bert,11,12,1

@@ -1,0 +1,114 @@
+text,start,end,label,confidence,method,entry,FileName,validation
+Rose,0,4.0,PER,0.9948,bert,1,1,1.0
+walter Ball,17,28.0,PER,0.7832,bert,1,1,1.0
+Dublin,32,38.0,LOC,0.9938,bert,1,1,1.0
+Luke Challoner,71,85.0,PER,0.9359,bert,1,1,1.0
+Divinity,98,106.0,LOC,0.626,bert,1,1,0.0
+Phoebe,194,200.0,PER,0.9967,bert,1,1,1.0
+Trinitie,282,290.0,LOC,0.6227,bert,1,1,2.0
+Dublin,303,309.0,LOC,0.9951,bert,1,1,1.0
+Mary,0,4.0,PER,0.9979,bert,2,2,1.0
+Dublin,47,53.0,LOC,0.9977,bert,2,2,1.0
+Richard Noble,66,79.0,PER,0.9982,bert,2,2,1.0
+Dublin,171,177.0,LOC,0.9992,bert,2,2,1.0
+Mary Lady Tyrell,0,16.0,PER,0.987,bert,3,3,1.0
+Se,31,33.0,PER,0.479,bert,3,3,
+Dublin,57,63.0,LOC,0.9944,bert,3,3,1.0
+St,74,76.0,LOC,0.3627,bert,3,3,0.0
+John Tyrell,78,89.0,PER,0.9086,bert,3,3,1.0
+St. Andoens,174,185.0,LOC,0.7747,bert,3,3,1.0
+Alethe richa de,218,233.0,PER,0.7666,bert,3,3,2.0
+Edward,235,241.0,PER,0.9984,bert,3,3,1.0
+Cicilie,243,250.0,PER,0.9814,bert,3,3,1.0
+Nichas Stevens,260,274.0,PER,0.998,bert,3,3,1.0
+Dublin,297,303.0,LOC,0.9901,bert,3,3,1.0
+Martin Blake,0,12.0,PER,0.999,bert,4,4,1.0
+Athboy,16,22.0,LOC,0.9819,bert,4,4,1.0
+Athboy,69,75.0,LOC,0.9917,bert,4,4,1.0
+Elizabeth,117,126.0,PER,0.9971,bert,4,4,1.0
+Michael Fitz,139,151.0,PER,0.8821,bert,4,4,2.0
+##z,156,157.0,PER,0.5177,bert,4,4,2.0
+##iam,162,165.0,PER,0.608,bert,4,4,2.0
+Donamo,170,176.0,LOC,0.6747,bert,4,4,2.0
+Richard,196,203.0,PER,0.9948,bert,4,4,1.0
+P,209,210.0,PER,0.4846,bert,4,4,0.0
+##leton,210,215.0,LOC,0.5428,bert,4,4,2.0
+Peter Bolton,0,12.0,PER,0.9989,bert,5,5,1.0
+Leinster,32,40.0,LOC,0.8078,bert,5,5,1.0
+Dublin,139,145.0,LOC,0.9984,bert,5,5,1.0
+Adam Loftus,0,11.0,PER,0.9663,bert,6,6;7,1.0
+Dublin,27,33.0,LOC,0.9673,bert,6,6;7,1.0
+Cha,40,43.0,LOC,0.3919,bert,6,6;7,0.0
+Ireland,79,86.0,LOC,0.9207,bert,6,6;7,2.0
+Jane,101,105.0,PER,0.9981,bert,6,6;7,1.0
+James Pourdon,113,126.0,PER,0.8794,bert,6,6;7,1.0
+Dudley Lo,158,167.0,PER,0.8736,bert,6,6;7,1.0
+Edward Lo,175,184.0,PER,0.7304,bert,6,6;7,1.0
+Adam,193,197.0,PER,0.9956,bert,6,6;7,2.0
+Thomas Loftus,205,218.0,PER,0.8683,bert,6,6;7,1.0
+Henry Loftus,230,242.0,PER,0.9204,bert,6,6;7,1.0
+Isabell,324,331.0,PER,0.8768,bert,6,6;7,1.0
+william Ussher,338,352.0,PER,0.9779,bert,6,6;7,1.0
+##nery,374,378.0,PER,0.7964,bert,6,6;7,2.0
+Anne,431,435.0,PER,0.9927,bert,6,6;7,1.0
+Henry Colley,451,463.0,PER,0.991,bert,6,6;7,1.0
+George Blounte,476,490.0,PER,0.9693,bert,6,6;7,1.0
+Edward Blaney,505,518.0,PER,0.9127,bert,6,6;7,1.0
+Jane,527,531.0,PER,0.9985,bert,6,6;7,1.0
+Francis Berkley,538,553.0,PER,0.9568,bert,6,6;7,1.0
+Dorothie,566,574.0,PER,0.9497,bert,6,6;7,1.0
+John More,581,590.0,PER,0.9991,bert,6,6;7,1.0
+Cha,607,610.0,PER,0.8969,bert,6,6;7,0.0
+##celour,612,618.0,PER,0.7398,bert,6,6;7,0.0
+Dublin,787,793.0,LOC,0.9814,bert,6,6;7,1.0
+Winifrid,0,8.0,PER,0.962,bert,7,8,1.0
+Florentin,31,40.0,PER,0.8091,bert,7,8,0.0
+H,48,49.0,LOC,0.5654,bert,7,8,0.0
+Charles Calthorpe Knight,115,139.0,PER,0.989,bert,7,8,2.0
+Charles,278,285.0,PER,0.9982,bert,7,8,1.0
+William Fitz,0,12.0,PER,0.9699,bert,8,9,2.0
+williams,13,21.0,PER,0.8843,bert,8,9,2.0
+Jobston,25,32.0,LOC,0.8549,bert,8,9,1.0
+As,59,61.0,LOC,0.5658,bert,8,9,2.0
+Bennet,122,128.0,PER,0.9909,bert,8,9,1.0
+Gerald Byrne,136,148.0,PER,0.9983,bert,8,9,1.0
+Talaugh,209,216.0,LOC,0.8833,bert,8,9,1.0
+S,0,1.0,PER,0.9927,bert,9,10,0.0
+George Bouchier,3,18.0,PER,0.9466,bert,9,10,1.0
+Ireland,77,84.0,LOC,0.9991,bert,9,10,1.0
+Jo : Cresset,97,108.0,PER,0.9046,bert,9,10,2.0
+Charles Howard,149,163.0,PER,0.996,bert,9,10,1.0
+Noting,167,173.0,LOC,0.7338,bert,9,10,1.0
+Thomas John,203,214.0,PER,0.8598,bert,9,10,2.0
+Henry,219,224.0,PER,0.9948,bert,9,10,1.0
+Christichurch Dublin,278,298.0,LOC,0.9689,bert,9,10,1.0
+James Taylour Shireve,0,21.0,PER,0.9238,bert,10,11,2.0
+Dublin,25,31.0,LOC,0.9973,bert,10,11,1.0
+John Barnewall,0,14.0,PER,0.9831,bert,11,12,1.0
+Brimore,18,25.0,LOC,0.7488,bert,11,12,1.0
+Eleonor,37,44.0,PER,0.9835,bert,11,12,1.0
+James Dowdall,56,69.0,PER,0.8846,bert,11,12,1.0
+James,127,132.0,PER,0.9992,bert,11,12,1.0
+Richard,134,141.0,PER,0.9993,bert,11,12,1.0
+Edward,143,149.0,PER,0.9991,bert,11,12,1.0
+Peter,151,156.0,PER,0.9994,bert,11,12,1.0
+Paterick,158,166.0,PER,0.9983,bert,11,12,1.0
+Robart,168,174.0,PER,0.9962,bert,11,12,1.0
+Andrew,177,183.0,PER,0.999,bert,11,12,1.0
+Mar,185,188.0,PER,0.5041,bert,11,12,2.0
+Ed,198,200.0,PER,0.9822,bert,11,12,2.0
+Taafe,203,208.0,PER,0.8611,bert,11,12,2.0
+Crook,212,217.0,LOC,0.661,bert,11,12,2.0
+Mary,224,228.0,PER,0.9987,bert,11,12,1.0
+##ming,240,244.0,PER,0.5895,bert,11,12,2.0
+Der,249,252.0,LOC,0.4324,bert,11,12,2.0
+Eliza,262,267.0,PER,0.9458,bert,11,12,2.0
+Vernon,279,285.0,PER,0.9965,bert,11,12,2.0
+Stabanna,289,297.0,LOC,0.5639,bert,11,12,2.0
+Ales,306,310.0,PER,0.9835,bert,11,12,1.0
+Anne,322,326.0,PER,0.9993,bert,11,12,1.0
+Brigid,328,334.0,PER,0.9778,bert,11,12,1.0
+Ursula,336,342.0,PER,0.9992,bert,11,12,1.0
+Eleonor,346,353.0,PER,0.9932,bert,11,12,1.0
+Brimore,369,376.0,LOC,0.8178,bert,11,12,1.0
+Balrothrie,411,421.0,LOC,0.7534,bert,11,12,1.0

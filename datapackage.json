@@ -3,7 +3,7 @@
   "name": "VOICES Funeral Entries NER",
   "title": "Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland",
   "description": "This dataset supports the study 'Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland', providing FAIR, open data for digital humanities, named entity recognition, and women’s history research.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/RYFoR/VOICES-FuneralEntries-NER",
   "created": "2026-01-05",
   "licenses": [
@@ -59,7 +59,35 @@
       "organization": "Trinity College Dublin"
     }
   ],
-  "resources": [
-    
-  ]
+  "resources": [{
+      "name": "transcriptions",
+      "path": "data/transcriptions/",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Transcription CSV files for each variant"
+    },{
+      "name": "validation",
+      "path": "data/validation/",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Validated entity files for benchmarking and evaluation."
+    },{
+      "name": "displacy",
+      "path": "data/displacy/",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "NER visualization outputs in displacy JSON format for each transcription variant."
+    },{
+      "name": "raw",
+      "path": "data/raw/",
+      "description": "Original, unprocessed data files."
+    },{
+      "name": "annotation",
+      "path": "data/annotation/",
+      "description": "Annotation files and guidelines for manual or semi-automated entity annotation."
+    },{
+      "name": "ner",
+      "path": "data/ner/",
+      "description": "NER outputs, models, or related files."
+    }]
 }

@@ -35,8 +35,23 @@
     dcat:distribution [
         a dcat:Distribution ;
         dcat:accessURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/tree/main/data/> ;
-        dcat:mediaType "text/json" ;
-        dcat:downloadURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/raw/main/data/scenario_name/data.json>
+        dcat:mediaType "application/zip" ;
+        dcat:downloadURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/archive/refs/heads/main.zip>
+    ] , [
+        a dcat:Distribution ;
+        dcat:accessURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/tree/main/data/transcriptions/> ;
+        dcat:mediaType "text/csv" ;
+        dcat:downloadURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/raw/main/data/transcriptions/>
+    ] ,  [
+        a dcat:Distribution ;
+        dcat:accessURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/tree/main/data/validation/> ;
+        dcat:mediaType "text/csv" ;
+        dcat:downloadURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/raw/main/data/validation/>
+    ] ,  [
+        a dcat:Distribution ;
+        dcat:accessURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/tree/main/data/displacy/> ;
+        dcat:mediaType "application/json" ;
+        dcat:downloadURL <https://github.com/RYFoR/VOICES-FuneralEntries-NER/raw/main/data/displacy/>
     ] ;
     dcat:landingPage <https://voicesproject.ie/>, 
         <https://github.com/RYFoR/VOICES-FuneralEntries-NER>;
