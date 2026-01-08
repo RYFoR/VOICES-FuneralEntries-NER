@@ -1,0 +1,865 @@
+[
+  {
+    "file_name": "0001_NLI_GO_MS_66_0001r",
+    "text": "Rose daughter of walter Ball of Dublin alderman and maior, and wife to Luke Challoner doctoure of Divinity by whom shee had issue divers children (all deade younge one daughter excepted named Phoebe) deceased of the plague the sixe and twentieth of October ano 1604. and is bur- in Trinitie colledge by Dublin with moste of her issue.",
+    "ents": [
+      {
+        "text": "Dublin",
+        "start": 303,
+        "end": 309,
+        "label": "LOC"
+      },
+      {
+        "text": "Phoebe",
+        "start": 192,
+        "end": 198,
+        "label": "PER"
+      },
+      {
+        "text": "Rose",
+        "start": 0,
+        "end": 4,
+        "label": "PER"
+      },
+      {
+        "text": "Luke Challoner",
+        "start": 71,
+        "end": 85,
+        "label": "PER"
+      },
+      {
+        "text": "walter Ball",
+        "start": 17,
+        "end": 28,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0001_NLI_GO_MS_66_0001r",
+    "text": "Mary daughter of James Rian sometime d'lireve of Dublin and wife to Richard noble gentleman, deceased at Thri- stledermotte in December the yeere of grace 1604. and is bur.: in Dublin.",
+    "ents": [
+      {
+        "text": "James Rian",
+        "start": 17,
+        "end": 27,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 177,
+        "end": 183,
+        "label": "LOC"
+      },
+      {
+        "text": "Mary",
+        "start": 0,
+        "end": 4,
+        "label": "PER"
+      },
+      {
+        "text": "Richard",
+        "start": 68,
+        "end": 75,
+        "label": "PER"
+      },
+      {
+        "text": "Thri",
+        "start": 105,
+        "end": 109,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0002_NLI_GO_MS_66_0001v",
+    "text": "Mary Lady Tyrell, dr. of Walter segrave alderman maio[r] of Dublin, & wi[fe] to Sir John Tyrell Knight ald: and maior of the same cittie: deceased in December 1604. and is, bur[ied in St. Audoens, churche. Shee had issue walter, Mathew Richarde, Edward, Cicilie (wife to Nichas Stevens, some time shireve of Dublin) Marg. and three more deade in theire infaucie.",
+    "ents": [
+      {
+        "text": "Mathew Richarde",
+        "start": 229,
+        "end": 244,
+        "label": "PER"
+      },
+      {
+        "text": "Edward",
+        "start": 246,
+        "end": 252,
+        "label": "PER"
+      },
+      {
+        "text": "Mary Lady Tyrell",
+        "start": 0,
+        "end": 16,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 60,
+        "end": 66,
+        "label": "LOC"
+      },
+      {
+        "text": "Nichas Stevens",
+        "start": 271,
+        "end": 285,
+        "label": "PER"
+      },
+      {
+        "text": "Cicilie",
+        "start": 254,
+        "end": 261,
+        "label": "PER"
+      },
+      {
+        "text": "John Tyrell Knight",
+        "start": 84,
+        "end": 102,
+        "label": "PER"
+      },
+      {
+        "text": "St",
+        "start": 184,
+        "end": 186,
+        "label": "LOC"
+      },
+      {
+        "text": "St. Audoens",
+        "start": 184,
+        "end": 195,
+        "label": "LOC"
+      },
+      {
+        "text": "Shee",
+        "start": 206,
+        "end": 210,
+        "label": "PER"
+      },
+      {
+        "text": "Audoens",
+        "start": 188,
+        "end": 195,
+        "label": "LOC"
+      },
+      {
+        "text": "Walter se",
+        "start": 25,
+        "end": 34,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0002_NLI_GO_MS_66_0001v",
+    "text": "Martin Zlake of Athboy, learned in the lawes, was bur[ied] in the church of Athboy the thirde of March 1604 He had to wife Erzabeth daughter of Michael Fitz- Fitz-williams of Donamor, second sonne of Richard of- Merion.",
+    "ents": [
+      {
+        "text": "Martin Zlake",
+        "start": 0,
+        "end": 12,
+        "label": "PER"
+      },
+      {
+        "text": "Athboy",
+        "start": 76,
+        "end": 82,
+        "label": "LOC"
+      },
+      {
+        "text": "Erzabeth",
+        "start": 123,
+        "end": 131,
+        "label": "PER"
+      },
+      {
+        "text": "Merion",
+        "start": 212,
+        "end": 218,
+        "label": "LOC"
+      },
+      {
+        "text": "Richard of",
+        "start": 200,
+        "end": 210,
+        "label": "PER"
+      },
+      {
+        "text": "Michael Fitz",
+        "start": 144,
+        "end": 156,
+        "label": "PER"
+      },
+      {
+        "text": "Michael",
+        "start": 144,
+        "end": 151,
+        "label": "PER"
+      },
+      {
+        "text": "Donamor",
+        "start": 175,
+        "end": 182,
+        "label": "LOC"
+      },
+      {
+        "text": "Fitz",
+        "start": 158,
+        "end": 162,
+        "label": "PER"
+      },
+      {
+        "text": "williams",
+        "start": 163,
+        "end": 171,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0003_NLI_GO_MS_66_0002r",
+    "text": "Peter Bolton provoste marshall of Leinster deceased the fourth of March 1604. of a wounde which some dayes be- fore he receaved in the streetes of Dublin.",
+    "ents": [
+      {
+        "text": "Peter Bolton",
+        "start": 0,
+        "end": 12,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 147,
+        "end": 153,
+        "label": "LOC"
+      },
+      {
+        "text": "Leinster",
+        "start": 34,
+        "end": 42,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0003_NLI_GO_MS_66_0002r",
+    "text": "Adam Loftum 20: Archb[ishop] of Dublin & Lo[rd] Chauncelour and thrice Lo[rd] Justice of Irelande had to wife jane da of James Pourdon gent. by whome he had issue Sir Dudley Lof[tus[  Sr Edward Lo[ftus] Capt. Adam Lo[ftus]  Sr Thomas Loftus knight and Henry Loftus, besides many other sonnees- dead younge: Margt. wife to Sir George Colley Knight, Isabel",
+    "ents": [
+      {
+        "text": "Henry Loftus",
+        "start": 252,
+        "end": 264,
+        "label": "PER"
+      },
+      {
+        "text": "Adam Loftum",
+        "start": 0,
+        "end": 11,
+        "label": "PER"
+      },
+      {
+        "text": "Thomas Loftus",
+        "start": 227,
+        "end": 240,
+        "label": "PER"
+      },
+      {
+        "text": "George Colley Knight",
+        "start": 326,
+        "end": 346,
+        "label": "PER"
+      },
+      {
+        "text": "Isabel",
+        "start": 348,
+        "end": 354,
+        "label": "PER"
+      },
+      {
+        "text": "Adam Lo",
+        "start": 209,
+        "end": 216,
+        "label": "PER"
+      },
+      {
+        "text": "Dudley Lo",
+        "start": 167,
+        "end": 176,
+        "label": "PER"
+      },
+      {
+        "text": "Edward Lo",
+        "start": 187,
+        "end": 196,
+        "label": "PER"
+      },
+      {
+        "text": "Dudley Lof",
+        "start": 167,
+        "end": 177,
+        "label": "PER"
+      },
+      {
+        "text": "Dublin",
+        "start": 32,
+        "end": 38,
+        "label": "LOC"
+      },
+      {
+        "text": "Thomas Loft",
+        "start": 227,
+        "end": 238,
+        "label": "PER"
+      },
+      {
+        "text": "Ireland",
+        "start": 89,
+        "end": 96,
+        "label": "LOC"
+      },
+      {
+        "text": "James Pourdon",
+        "start": 121,
+        "end": 134,
+        "label": "PER"
+      },
+      {
+        "text": "Irelande",
+        "start": 89,
+        "end": 97,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0004_NLI_GO_MS_66_0002v",
+    "text": "Esabell to Sr. William vnther Knight, Also to Sr Henry werren Knight, Martha to Sr. Thoms Colclough Knight Anne firste to cap. Henry Colley, 2. to Capn. George Blounte, and 3. to St. Edward Blanep Knight, Jane Sr. Francis Berkley Knight, and Dorothie to St. John More Knight. The Lo: Chauncelour deceased at St. Sepuschero the fiste of Aprill 1605. the 72. yeere of his age, the 24 yeere of his Chauncelourship and of hio sonsecracon, and is buried in St. Paterickeo Dublin.",
+    "ents": [
+      {
+        "text": "Dublin",
+        "start": 467,
+        "end": 473,
+        "label": "LOC"
+      },
+      {
+        "text": "Francis Berkley Knight",
+        "start": 214,
+        "end": 236,
+        "label": "PER"
+      },
+      {
+        "text": "Henry Colley",
+        "start": 127,
+        "end": 139,
+        "label": "PER"
+      },
+      {
+        "text": "Henry",
+        "start": 49,
+        "end": 54,
+        "label": "PER"
+      },
+      {
+        "text": "St. Paterickeo",
+        "start": 452,
+        "end": 466,
+        "label": "LOC"
+      },
+      {
+        "text": "St",
+        "start": 308,
+        "end": 310,
+        "label": "LOC"
+      },
+      {
+        "text": "Martha",
+        "start": 70,
+        "end": 76,
+        "label": "PER"
+      },
+      {
+        "text": "Knight",
+        "start": 30,
+        "end": 36,
+        "label": "PER"
+      },
+      {
+        "text": "George Blounte",
+        "start": 153,
+        "end": 167,
+        "label": "PER"
+      },
+      {
+        "text": "John More Knight",
+        "start": 258,
+        "end": 274,
+        "label": "PER"
+      },
+      {
+        "text": "St. Paterick",
+        "start": 452,
+        "end": 464,
+        "label": "LOC"
+      },
+      {
+        "text": "Jane",
+        "start": 205,
+        "end": 209,
+        "label": "PER"
+      },
+      {
+        "text": "Dorothie",
+        "start": 242,
+        "end": 250,
+        "label": "PER"
+      },
+      {
+        "text": "William vnther Knight",
+        "start": 15,
+        "end": 36,
+        "label": "PER"
+      },
+      {
+        "text": "William v",
+        "start": 15,
+        "end": 24,
+        "label": "PER"
+      },
+      {
+        "text": "Thoms Colc",
+        "start": 84,
+        "end": 94,
+        "label": "PER"
+      },
+      {
+        "text": "Henry werren Knight",
+        "start": 49,
+        "end": 68,
+        "label": "PER"
+      },
+      {
+        "text": "E",
+        "start": 0,
+        "end": 1,
+        "label": "PER"
+      },
+      {
+        "text": "Edward Blanep Knight",
+        "start": 183,
+        "end": 203,
+        "label": "PER"
+      },
+      {
+        "text": "Sepuscher",
+        "start": 312,
+        "end": 321,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0004_NLI_GO_MS_66_0002v",
+    "text": "Winifrid, dr of Antonio Toto a Florentin, of K. H. vm. privie chamber and hic Serieant pannter) and wite: to St. Charlea, Calthorpe Knight (sometime Attorney) generall and now one of the zusticee of the common pleach deceased the firste of Auguste 1605. She leste noe issue by S. Charles",
+    "ents": [
+      {
+        "text": "S. Charles",
+        "start": 277,
+        "end": 287,
+        "label": "PER"
+      },
+      {
+        "text": "Antonio Toto",
+        "start": 16,
+        "end": 28,
+        "label": "PER"
+      },
+      {
+        "text": "Winifrid",
+        "start": 0,
+        "end": 8,
+        "label": "PER"
+      },
+      {
+        "text": "Charles",
+        "start": 280,
+        "end": 287,
+        "label": "PER"
+      },
+      {
+        "text": "Calthorpe Knight",
+        "start": 122,
+        "end": 138,
+        "label": "PER"
+      },
+      {
+        "text": "Charlea",
+        "start": 113,
+        "end": 120,
+        "label": "PER"
+      },
+      {
+        "text": "H",
+        "start": 48,
+        "end": 49,
+        "label": "LOC"
+      },
+      {
+        "text": "K",
+        "start": 45,
+        "end": 46,
+        "label": "LOC"
+      },
+      {
+        "text": "St. Charlea",
+        "start": 109,
+        "end": 120,
+        "label": "LOC"
+      },
+      {
+        "text": "Auguste",
+        "start": 240,
+        "end": 247,
+        "label": "PER"
+      },
+      {
+        "text": "St",
+        "start": 109,
+        "end": 111,
+        "label": "PER"
+      },
+      {
+        "text": "Florentin",
+        "start": 31,
+        "end": 40,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0005_NLI_GO_MS_66_0003r",
+    "text": "William Fitz williamor of Jobston deceased of the pleasure at: Merion the xxiij. of Aug: 1605: he did a few weekes before many Bonnet dr. of Eerald Pirne of Ballyhorsee and had no issue, he io bur: in the church of Talaugh",
+    "ents": [
+      {
+        "text": "William Fi",
+        "start": 0,
+        "end": 10,
+        "label": "PER"
+      },
+      {
+        "text": "Eerald Pirne",
+        "start": 141,
+        "end": 153,
+        "label": "PER"
+      },
+      {
+        "text": "Talaugh",
+        "start": 215,
+        "end": 222,
+        "label": "LOC"
+      },
+      {
+        "text": "Merion",
+        "start": 63,
+        "end": 69,
+        "label": "LOC"
+      },
+      {
+        "text": "Jobston",
+        "start": 26,
+        "end": 33,
+        "label": "LOC"
+      },
+      {
+        "text": "Ballyhorsee",
+        "start": 157,
+        "end": 168,
+        "label": "LOC"
+      },
+      {
+        "text": "williamor",
+        "start": 13,
+        "end": 22,
+        "label": "PER"
+      },
+      {
+        "text": "Ballyhorse",
+        "start": 157,
+        "end": 167,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0005_NLI_GO_MS_66_0003r",
+    "text": "S. George Bourchier Knight master of the Ordinannc and of the privie Councell of Ireland, z. sonne to Jo: Erle Bath, had to wite Martha sister of Charles, howar (E of Noting: etc. by whome He leste istue Thomas John and Henry, He deceased the xxiiii. Septemb: 1605. and ioj bur- in Christchurch Dublin. Also verfol 42",
+    "ents": [
+      {
+        "text": "Henry",
+        "start": 220,
+        "end": 225,
+        "label": "PER"
+      },
+      {
+        "text": "Ireland",
+        "start": 81,
+        "end": 88,
+        "label": "LOC"
+      },
+      {
+        "text": "Charles",
+        "start": 146,
+        "end": 153,
+        "label": "PER"
+      },
+      {
+        "text": "Christchurch Dublin",
+        "start": 282,
+        "end": 301,
+        "label": "LOC"
+      },
+      {
+        "text": "Erle Bath",
+        "start": 106,
+        "end": 115,
+        "label": "PER"
+      },
+      {
+        "text": "Martha",
+        "start": 129,
+        "end": 135,
+        "label": "PER"
+      },
+      {
+        "text": "S",
+        "start": 0,
+        "end": 1,
+        "label": "PER"
+      },
+      {
+        "text": "Thomas John",
+        "start": 204,
+        "end": 215,
+        "label": "PER"
+      },
+      {
+        "text": "S. George Bourchier Knight",
+        "start": 0,
+        "end": 26,
+        "label": "PER"
+      },
+      {
+        "text": "Jo",
+        "start": 102,
+        "end": 104,
+        "label": "PER"
+      },
+      {
+        "text": "George Bourchier",
+        "start": 3,
+        "end": 19,
+        "label": "PER"
+      },
+      {
+        "text": "Councell",
+        "start": 69,
+        "end": 77,
+        "label": "PER"
+      }
+    ]
+  },
+  {
+    "file_name": "0006_NLI_GO_MS_66_0003v",
+    "text": "sameer ^Taysour shireve of Dublin deceased the twentieth of December 1605.",
+    "ents": [
+      {
+        "text": "Dublin",
+        "start": 27,
+        "end": 33,
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "file_name": "0006_NLI_GO_MS_66_0003v",
+    "text": "John Barnewall of Brimore had to wi: Fleonor dr of Sr. James Dowdall k. chiefe just: of y kinges, bencis by whome- He had ihre jamees, Richard, K dward, Peter, Paterick, Ro¬ bart & Andrew: Margt. wi: to Edw: Taase of Gookeston. Mary to La-Pleminge of derpatrick, Elizab: to Rich: Wernon of Staba: nan, Ima, Alleen, Kathern, Anne, Brigid, ursula, & Eleonor. He deceased at Brimore etc. xii. of Febr: 1605. & is. bur: at Balrothrie.",
+    "ents": [
+      {
+        "text": "John Barnewall",
+        "start": 0,
+        "end": 14,
+        "label": "PER"
+      },
+      {
+        "text": "James Dowdall",
+        "start": 55,
+        "end": 68,
+        "label": "PER"
+      },
+      {
+        "text": "Peter",
+        "start": 153,
+        "end": 158,
+        "label": "PER"
+      },
+      {
+        "text": "Anne",
+        "start": 324,
+        "end": 328,
+        "label": "PER"
+      },
+      {
+        "text": "Richard",
+        "start": 135,
+        "end": 142,
+        "label": "PER"
+      },
+      {
+        "text": "Mary",
+        "start": 228,
+        "end": 232,
+        "label": "PER"
+      },
+      {
+        "text": "Andrew",
+        "start": 181,
+        "end": 187,
+        "label": "PER"
+      },
+      {
+        "text": "Paterick",
+        "start": 160,
+        "end": 168,
+        "label": "PER"
+      },
+      {
+        "text": "K",
+        "start": 144,
+        "end": 145,
+        "label": "PER"
+      },
+      {
+        "text": "Alleen",
+        "start": 307,
+        "end": 313,
+        "label": "PER"
+      },
+      {
+        "text": "La",
+        "start": 236,
+        "end": 238,
+        "label": "PER"
+      },
+      {
+        "text": "R",
+        "start": 170,
+        "end": 171,
+        "label": "PER"
+      },
+      {
+        "text": "Eleonor",
+        "start": 348,
+        "end": 355,
+        "label": "PER"
+      },
+      {
+        "text": "Ima",
+        "start": 302,
+        "end": 305,
+        "label": "PER"
+      },
+      {
+        "text": "Fleonor",
+        "start": 37,
+        "end": 44,
+        "label": "PER"
+      },
+      {
+        "text": "Kathern",
+        "start": 315,
+        "end": 322,
+        "label": "PER"
+      },
+      {
+        "text": "Brigid",
+        "start": 330,
+        "end": 336,
+        "label": "PER"
+      },
+      {
+        "text": "Pleminge",
+        "start": 239,
+        "end": 247,
+        "label": "PER"
+      },
+      {
+        "text": "##ward",
+        "start": 147,
+        "end": 151,
+        "label": "PER"
+      },
+      {
+        "text": "Wernon",
+        "start": 280,
+        "end": 286,
+        "label": "PER"
+      },
+      {
+        "text": "James Dowdal",
+        "start": 55,
+        "end": 67,
+        "label": "PER"
+      },
+      {
+        "text": "Taase",
+        "start": 208,
+        "end": 213,
+        "label": "PER"
+      },
+      {
+        "text": "ursula",
+        "start": 338,
+        "end": 344,
+        "label": "PER"
+      },
+      {
+        "text": "Brimore",
+        "start": 372,
+        "end": 379,
+        "label": "LOC"
+      },
+      {
+        "text": "Staba",
+        "start": 290,
+        "end": 295,
+        "label": "PER"
+      },
+      {
+        "text": "Balrothrie",
+        "start": 419,
+        "end": 429,
+        "label": "LOC"
+      },
+      {
+        "text": "Ed",
+        "start": 203,
+        "end": 205,
+        "label": "PER"
+      },
+      {
+        "text": "Gookeston",
+        "start": 217,
+        "end": 226,
+        "label": "LOC"
+      },
+      {
+        "text": "Elizab",
+        "start": 263,
+        "end": 269,
+        "label": "PER"
+      },
+      {
+        "text": "La-Pleminge",
+        "start": 236,
+        "end": 247,
+        "label": "PER"
+      }
+    ]
+}]

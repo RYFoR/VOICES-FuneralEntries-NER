@@ -8,8 +8,8 @@ date-released: 2026-01-05
 authors:
   - family-names: "McShane"
     given-names: "Bronagh Ann"
-    orcid: "https://orcid.org/0000-0001-7760-621X"    
     affiliation: "Trinity College Dublin"
+    orcid: "https://orcid.org/0000-0001-7760-621X"    
   - family-names: "Rincon-Yanez"
     given-names: "Diego"
     affiliation: "Vienna University of Economics and Business"
@@ -21,7 +21,7 @@ authors:
   - family-names: "Ohlmeyer"
     given-names: "Jane"
     affiliation: "Trinity College Dublin"
-    orcid: "https://orcid.org/0000-0002-8982-1678"    
+    orcid: "https://orcid.org/0000-0000-0000-0000"    
   - family-names: "O'Sullivan"
     given-names: "Declan"
     affiliation: "Trinity College Dublin"

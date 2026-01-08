@@ -11,7 +11,7 @@
 
 This repository supports research on the recovery of women’s lives from fragmented and underused archives, focusing on the Funeral Entries held in the Genealogical Office of the National Library of Ireland. Compiled by the Ulster King of Arms between the late sixteenth and early eighteenth centuries, these manuscripts document death dates, kinship networks, and social affiliations, and are notable for their unusually high proportion of women (about 38 percent) for the early modern period.
 
-Developed as part of the **ERC-funded VOICES project**, this resource provides data, code, and documentation for assesment of the combination of out of the box AI-powered methods such as Handwritten Text Recognition (HTR) and Named Entity Recognition (NER) to extract persons, places, and other entities from historical sources.
+Developed as part of the [**ERC-funded VOICES project**](https://voicesproject.ie/), this resource provides data, code, and documentation for assesment of the combination of out of the box AI-powered methods such as Handwritten Text Recognition (HTR) and Named Entity Recognition (NER) to extract persons, places, and other entities from historical sources.
 
 It aims to support the evaluation of reusable workflows, annotated gold standards, and FAIR-aligned humanities data, ultimately advancing the historiographical understanding of archival visibility and the interpretive potential of genealogical records for women’s history.
 
@@ -68,19 +68,33 @@ Machine-readable metadata is available in the `fair/` and `metadata/` folders.
 
 ## 📖 Citation
 
-If you use this dataset, please cite our publication:
+If you use it in your research, please to cite this work, both the dataset and the corresponding paper; the suggested citation in BibTex format is:
 
 ```bibtex
 @article{VOICES_JOHD_2026,
   author    = {McShane, Bronagh Ann and Rincon-Yanez, Diego and Vanden Borre, Felix and Ohlmeyer, Jane and O'Sullivan, Declan},
   title     = {Digitising Death: Benchmarking Genealogical Data and Recovering Women’s Histories in Early Modern Ireland},
-  journal      = {Submitted to Journal of Open Humanities Data},
+  journal   = {Submitted to Journal of Open Humanities Data},
   keywords  = {digital humanities; benchmarking; named entity recognition; early modern Ireland; women’s history; FAIR data},
   year      = {2026},
+  month     = {TBD},
+  volume    = {TBD},
   doi       = {TBD},
   url       = {TBD}
 }
+
+@dataset{mcshane_2026_18174069,
+  author       = {McShane, Bronagh Ann and Rincon-Yanez, Diego and Vanden Borre, Felix and Ohlmeyer, Jane and O'Sullivan, Declan},
+  title        = {{Digitising Death (Funeral Entries): Benchmarking Genealogical Data and Recovering Women's Histories in Early Modern Ireland}},
+  month        = {jan},
+  year         = {2026}
+  publisher    = {Zenodo},
+  version      = {0.0.2},
+  doi          = {10.5281/zenodo.18174069},
+  url          = {https://doi.org/10.5281/zenodo.18174069},
+}
 ```
+
 
 ---
 

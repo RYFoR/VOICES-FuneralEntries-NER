@@ -1,0 +1,1010 @@
+[
+  {
+    "file_name": "0001_NLI_GO_MS_66_0001r",
+    "text": "Rose daughter of walter Ball of Dublin alderman and mayor, and wife to Luke Challoner doctor of Divinity by whom she had issue divers children (all dead young one daughter excepted named Phoebe) deceased of the plague the six and twentieth of October ano 1604. and is buried in Trinity college by Dublin with most of her issue.",
+    "ents": [
+      {
+        "text": "Dublin",
+        "start": 32,
+        "end": 38,
+        "label": "LOC",
+        "entry": 1,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "Luke Challoner",
+        "start": 71,
+        "end": 85,
+        "label": "PER",
+        "entry": 1,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "Phoebe",
+        "start": 187,
+        "end": 193,
+        "label": "PER",
+        "entry": 1,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "she",
+        "start": 113,
+        "end": 116,
+        "label": "PER",
+        "entry": 1,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "Dublin",
+        "start": 297,
+        "end": 303,
+        "label": "LOC",
+        "entry": 1,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "her",
+        "start": 317,
+        "end": 320,
+        "label": "PER",
+        "entry": 1,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      }
+    ]
+  },
+  {
+    "file_name": "0001_NLI_GO_MS_66_0001r",
+    "text": "Mary daughter of James Rian sometime d'lireve of Dublin and wife to Richard noble gentleman, deceased at Thri- stledermotte in December the yeere of grace 1604. and is bur.: in Dublin.",
+    "ents": [
+      {
+        "text": "Mary",
+        "start": 0,
+        "end": 4,
+        "label": "PER",
+        "entry": 2,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "James Rian",
+        "start": 17,
+        "end": 27,
+        "label": "PER",
+        "entry": 2,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "Dublin",
+        "start": 49,
+        "end": 55,
+        "label": "LOC",
+        "entry": 2,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "Richard",
+        "start": 68,
+        "end": 75,
+        "label": "PER",
+        "entry": 2,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      },
+      {
+        "text": "Dublin",
+        "start": 177,
+        "end": 183,
+        "label": "LOC",
+        "entry": 2,
+        "FileName": "0001_NLI_GO_MS_66_0001r"
+      }
+    ]
+  },
+  {
+    "file_name": "0002_NLI_GO_MS_66_0001v",
+    "text": "Mary Lady Tyrell, dr. of Walter Segrave alderman mayor[r] of Dublin, & wife[fe] to Sir John Tyrell Knight alderman: and mayor of the same city: deceased in December 1604. and is, bur[ied in St. Audoens, church. She had issue walter, Matthew Richard, Edward, Cicilie (wife to Nichas Stevens, some time shrieve of Dublin) Margaret. and three more dead in their infancie.",
+    "ents": [
+      {
+        "text": "Mary Lady Tyrell",
+        "start": 0,
+        "end": 16,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Walter Segrave",
+        "start": 25,
+        "end": 39,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Dublin",
+        "start": 61,
+        "end": 67,
+        "label": "LOC",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "John Tyrell Knight",
+        "start": 87,
+        "end": 105,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "St. Audoens",
+        "start": 190,
+        "end": 201,
+        "label": "LOC",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Matthew Richard",
+        "start": 233,
+        "end": 248,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Edward",
+        "start": 250,
+        "end": 256,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Cicilie",
+        "start": 258,
+        "end": 265,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Nichas Stevens",
+        "start": 275,
+        "end": 289,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Dublin",
+        "start": 312,
+        "end": 318,
+        "label": "LOC",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Margaret",
+        "start": 320,
+        "end": 328,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "She",
+        "start": 211,
+        "end": 214,
+        "label": "PER",
+        "entry": 3,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      }
+    ]
+  },
+  {
+    "file_name": "0002_NLI_GO_MS_66_0001v",
+    "text": "Martin Blake of Athboy, learned in the laws, was bur[ied] in the church of Athboy the third of March 1604 He had to wife Elizabeth daughter of Michael Fitz- Fitz-williams of Donamor, second son of Richard of Merion.",
+    "ents": [
+      {
+        "text": "Martin Blake",
+        "start": 0,
+        "end": 12,
+        "label": "PER",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Elizabeth",
+        "start": 121,
+        "end": 130,
+        "label": "PER",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Michael",
+        "start": 143,
+        "end": 150,
+        "label": "PER",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Donamor",
+        "start": 174,
+        "end": 181,
+        "label": "LOC",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Richard",
+        "start": 197,
+        "end": 204,
+        "label": "PER",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "Merion",
+        "start": 208,
+        "end": 214,
+        "label": "LOC",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      },
+      {
+        "text": "He",
+        "start": 106,
+        "end": 108,
+        "label": "PER",
+        "entry": 4,
+        "FileName": "0002_NLI_GO_MS_66_0001v"
+      }
+    ]
+  },
+  {
+    "file_name": "0003_NLI_GO_MS_66_0002r",
+    "text": "Peter Bolton provost marshall of Leinster deceased the fourth of March 1604. of a wound which some days be- fore he received in the streets of Dublin.",
+    "ents": [
+      {
+        "text": "Peter Bolton",
+        "start": 0,
+        "end": 12,
+        "label": "PER",
+        "entry": 5,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Leinster",
+        "start": 33,
+        "end": 41,
+        "label": "LOC",
+        "entry": 5,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Dublin",
+        "start": 143,
+        "end": 149,
+        "label": "LOC",
+        "entry": 5,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "he",
+        "start": 113,
+        "end": 115,
+        "label": "PER",
+        "entry": 5,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      }
+    ]
+  },
+  {
+    "file_name": "0003_NLI_GO_MS_66_0002r",
+    "text": "Adam Loftus 20: Archbishop[ishop] of Dublin & Lo[rd] Chancellor and thrice Lord[rd] Justice of Ireland had to wife jane da of James Pourdon gent. by whom he had issue Sir Dudley Loftus[tus[  Sr Edward Loftus[ftus] Capt. Adam Loftus[ftus]  Sr Thomas Loftus knight and Henry Loftus, besides many other sons dead young: Margaret. wife to Sir George Colley Knight, Isabel",
+    "ents": [
+      {
+        "text": "Adam Loftus",
+        "start": 0,
+        "end": 11,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Dublin",
+        "start": 37,
+        "end": 43,
+        "label": "LOC",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Ireland",
+        "start": 95,
+        "end": 102,
+        "label": "LOC",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "jane da of James Pourdon",
+        "start": 115,
+        "end": 139,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Dudley Loftus",
+        "start": 171,
+        "end": 184,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Edward Loftus",
+        "start": 194,
+        "end": 207,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Adam Loftus",
+        "start": 220,
+        "end": 231,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Thomas Loftus",
+        "start": 242,
+        "end": 255,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Henry Loftus",
+        "start": 267,
+        "end": 279,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Margaret",
+        "start": 317,
+        "end": 325,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "he",
+        "start": 154,
+        "end": 156,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "George Colley Knight",
+        "start": 339,
+        "end": 359,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      },
+      {
+        "text": "Isabel",
+        "start": 361,
+        "end": 367,
+        "label": "PER",
+        "entry": 6,
+        "FileName": "0003_NLI_GO_MS_66_0002r"
+      }
+    ]
+  },
+  {
+    "file_name": "0004_NLI_GO_MS_66_0002v",
+    "text": "Isabel to Sr. William Ussher Knight, Also to Sr Henry Warren Knight, Martha to Sr. Thomas Colclough Knight Anne first to cap. Henry Colley, 2. to Capn. George Blounte, and 3. to St. Edward Blaney Knight, Jane Sr. Francis Berkley Knight, and Dorothie to St. John More Knight. The Lo: Chancellor deceased at St. Sepulchers the first of April 1605. the 72. year of his age, the 24 year of his Chancellorship and of his consecration, and is buried in St. Paterickes Dublin.",
+    "ents": [
+      {
+        "text": "William Ussher Knight",
+        "start": 14,
+        "end": 35,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Henry Warren Knight",
+        "start": 48,
+        "end": 67,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Martha",
+        "start": 69,
+        "end": 75,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Thomas Colclough Knight Anne",
+        "start": 83,
+        "end": 111,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Henry Colley",
+        "start": 126,
+        "end": 138,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Capn",
+        "start": 146,
+        "end": 150,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "George Blounte",
+        "start": 152,
+        "end": 166,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "St. Edward Blaney Knight",
+        "start": 178,
+        "end": 202,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Jane Sr",
+        "start": 204,
+        "end": 211,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Francis Berkley Knight",
+        "start": 213,
+        "end": 235,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "John More Knight",
+        "start": 257,
+        "end": 273,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "St. Paterickes",
+        "start": 447,
+        "end": 461,
+        "label": "LOC",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Dublin",
+        "start": 462,
+        "end": 468,
+        "label": "LOC",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "his",
+        "start": 362,
+        "end": 365,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "his",
+        "start": 386,
+        "end": 389,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "his",
+        "start": 412,
+        "end": 415,
+        "label": "PER",
+        "entry": 7,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      }
+    ]
+  },
+  {
+    "file_name": "0004_NLI_GO_MS_66_0002v",
+    "text": "Winifrid, dr of Antonio Toto a Florentin, of K. H. vm. privy chamber and his Sergeant painter) and wife: to St. Charles, Calthorpe Knight (sometime Attorney) general and now one of the justice of the common plea's deceased the first of August 1605. She left no issue by S. Charles",
+    "ents": [
+      {
+        "text": "Antonio Toto",
+        "start": 16,
+        "end": 28,
+        "label": "PER",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Florentin",
+        "start": 31,
+        "end": 40,
+        "label": "LOC",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "St. Charles",
+        "start": 108,
+        "end": 119,
+        "label": "PER",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "Calthorpe Knight",
+        "start": 121,
+        "end": 137,
+        "label": "PER",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "his",
+        "start": 73,
+        "end": 76,
+        "label": "PER",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "S. Charles",
+        "start": 270,
+        "end": 280,
+        "label": "PER",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      },
+      {
+        "text": "She",
+        "start": 249,
+        "end": 252,
+        "label": "PER",
+        "entry": 8,
+        "FileName": "0004_NLI_GO_MS_66_0002v"
+      }
+    ]
+  },
+  {
+    "file_name": "0005_NLI_GO_MS_66_0003r",
+    "text": "William Fitz williams of Jobston deceased of the pleasure at: Merion the xxiij. of Aug: 1605: he did a few weeks before many Bonnet dr. of Gerald Birne of Ballyhorsee and had no issue, he is bur: in the church of Talaugh",
+    "ents": [
+      {
+        "text": "William Fitz williams",
+        "start": 0,
+        "end": 21,
+        "label": "PER",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Jobston",
+        "start": 25,
+        "end": 32,
+        "label": "LOC",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Merion",
+        "start": 62,
+        "end": 68,
+        "label": "LOC",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Gerald Birne",
+        "start": 139,
+        "end": 151,
+        "label": "PER",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Ballyhorsee",
+        "start": 155,
+        "end": 166,
+        "label": "LOC",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Talaugh",
+        "start": 213,
+        "end": 220,
+        "label": "LOC",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "he",
+        "start": 94,
+        "end": 96,
+        "label": "PER",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "he",
+        "start": 185,
+        "end": 187,
+        "label": "PER",
+        "entry": 9,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      }
+    ]
+  },
+  {
+    "file_name": "0005_NLI_GO_MS_66_0003r",
+    "text": "S. George Bourchier Knight master of the Ordinance and of the privy Council of Ireland, z. son to John: Earl Bath, had to wife Martha sister of Charles, howard (E of Notingham: etc. by whom He left issue Thomas John and Henry, He deceased the xxiiii. September: 1605. and is buried in Christchurch Dublin. Also verfol 42",
+    "ents": [
+      {
+        "text": "S. George Bourchier Knight",
+        "start": 0,
+        "end": 26,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Ireland",
+        "start": 79,
+        "end": 86,
+        "label": "LOC",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "John",
+        "start": 98,
+        "end": 102,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Earl Bath",
+        "start": 104,
+        "end": 113,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Martha",
+        "start": 127,
+        "end": 133,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Charles",
+        "start": 144,
+        "end": 151,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Thomas John",
+        "start": 204,
+        "end": 215,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Henry",
+        "start": 220,
+        "end": 225,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "He",
+        "start": 190,
+        "end": 192,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "He",
+        "start": 227,
+        "end": 229,
+        "label": "PER",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      },
+      {
+        "text": "Christchurch Dublin",
+        "start": 285,
+        "end": 304,
+        "label": "LOC",
+        "entry": 10,
+        "FileName": "0005_NLI_GO_MS_66_0003r"
+      }
+    ]
+  },
+  {
+    "file_name": "0006_NLI_GO_MS_66_0003v",
+    "text": "James Taylour shrieve of Dublin deceased the twentieth of December 1605.",
+    "ents": [
+      {
+        "text": "James Taylour shrieve",
+        "start": 0,
+        "end": 21,
+        "label": "PER",
+        "entry": 11,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Dublin",
+        "start": 25,
+        "end": 31,
+        "label": "LOC",
+        "entry": 11,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      }
+    ]
+  },
+  {
+    "file_name": "0006_NLI_GO_MS_66_0003v",
+    "text": "John Barnewall of Brimore had to wife: Eleonor dr of Sr. James Dowdall k. chief just: of y kings, bench's by whom He had issue james, Richard, K Edward, Peter, Paterick, Robart & Andrew: Margaret. wife: to Edward: Taafe of Gookeston. Mary to La-Pleminge of Derpatrick, Elizabeth: to Rich: Wernon of Stabanan, Isma, Ales, Katherin, Anne, Brigid, Ursula, & Eleonor. He deceased at Brimore etc. xii. of February: 1605. & is. bur: at Balrothrie.",
+    "ents": [
+      {
+        "text": "John Barnewall",
+        "start": 0,
+        "end": 14,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Brimore",
+        "start": 18,
+        "end": 25,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Eleonor",
+        "start": 39,
+        "end": 46,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "James Dowdall",
+        "start": 57,
+        "end": 70,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Richard",
+        "start": 134,
+        "end": 141,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "K Edward",
+        "start": 143,
+        "end": 151,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Peter",
+        "start": 153,
+        "end": 158,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Paterick",
+        "start": 160,
+        "end": 168,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Margaret",
+        "start": 187,
+        "end": 195,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "He",
+        "start": 114,
+        "end": 116,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Edward",
+        "start": 206,
+        "end": 212,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Taafe",
+        "start": 214,
+        "end": 219,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Gookeston",
+        "start": 223,
+        "end": 232,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Mary",
+        "start": 234,
+        "end": 238,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "La-Pleminge",
+        "start": 242,
+        "end": 253,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Derpatrick",
+        "start": 257,
+        "end": 267,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Elizabeth",
+        "start": 269,
+        "end": 278,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Stabanan",
+        "start": 299,
+        "end": 307,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Katherin",
+        "start": 321,
+        "end": 329,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Anne",
+        "start": 331,
+        "end": 335,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Brigid",
+        "start": 337,
+        "end": 343,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Ursula",
+        "start": 345,
+        "end": 351,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Eleonor",
+        "start": 355,
+        "end": 362,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Brimore",
+        "start": 379,
+        "end": 386,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "He",
+        "start": 364,
+        "end": 366,
+        "label": "PER",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      },
+      {
+        "text": "Balrothrie",
+        "start": 430,
+        "end": 440,
+        "label": "LOC",
+        "entry": 12,
+        "FileName": "0006_NLI_GO_MS_66_0003v"
+      }
+    ]
+  }
+]
