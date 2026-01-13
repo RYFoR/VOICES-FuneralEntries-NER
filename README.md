@@ -1,4 +1,4 @@
-# 📊 Assesment of Named Entity Recognition (NER) Funeral Entries Manuscripts using NLP techniques
+# 📊 Assessment of Named Entity Recognition (NER) Funeral Entries Manuscripts using NLP techniques
 
 [![DOI](https://zenodo.org/badge/1128349506.svg)](https://doi.org/10.5281/zenodo.18174068)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -11,7 +11,7 @@
 
 This repository supports research on the recovery of women’s lives from fragmented and underused archives, focusing on the Funeral Entries held in the Genealogical Office of the National Library of Ireland. Compiled by the Ulster King of Arms between the late sixteenth and early eighteenth centuries, these manuscripts document death dates, kinship networks, and social affiliations, and are notable for their unusually high proportion of women (about 38 percent) for the early modern period.
 
-Developed as part of the [**ERC-funded VOICES project**](https://voicesproject.ie/), this resource provides data, code, and documentation for assesment of the combination of out of the box AI-powered methods such as Handwritten Text Recognition (HTR) and Named Entity Recognition (NER) to extract persons, places, and other entities from historical sources.
+Developed as part of the [**ERC-funded VOICES project**](https://voicesproject.ie/), this resource provides data, code, and documentation for assessment of the combination of out of the box AI-powered methods such as Handwritten Text Recognition (HTR) and Named Entity Recognition (NER) to extract persons, places, and other entities from historical sources.
 
 It aims to support the evaluation of reusable workflows, annotated gold standards, and FAIR-aligned humanities data, ultimately advancing the historiographical understanding of archival visibility and the interpretive potential of genealogical records for women’s history.
 
