@@ -37,7 +37,6 @@ It aims to support the evaluation of reusable workflows, annotated gold standard
 │   ├── annotation/        # Annotation files and guidelines
 │   ├── displacy/          # NER visualization outputs (displacy JSON)
 │   ├── ner/               # NER outputs
-│   ├── raw/               # Original, unprocessed data files
 │   ├── transcriptions/    # Transcription CSV files for each variant
 │   └── validation/        # Validated entity files
 ├── docs/                      # Documentation and Curation Guides

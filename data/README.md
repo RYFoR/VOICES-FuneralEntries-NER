@@ -1,6 +1,6 @@
 # 📁 Funeral Entries Data Overview
 
-This folder contains curated and raw data files supporting the assessment of Named Entity Recognition (NER) and Handwritten Text Recognition (HTR) on historical Funeral Entries manuscripts, as part of the ERC-funded VOICES project.
+This folder contains curated and other data files supporting the assessment of Named Entity Recognition (NER) and Handwritten Text Recognition (HTR) on historical Funeral Entries manuscripts, as part of the ERC-funded VOICES project.
 
 ## 🗂️ Folder Structure
 
@@ -9,7 +9,6 @@ The data directory is organized into the following subfolders, each representing
 - **annotation/** – Contains annotated files for the HTR Upload
 - **displacy/** – Includes NER visualization outputs in displacy JSON format for each transcription variant.
 - **ner/** – Reserved for NER outputs, models.
-- **raw/** – Stores original, digitized Funeral Entries data files.
 - **transcriptions/** – Contains transcription CSV files for each variant.
 - **validation/** – Holds the standardized validated entity files for assesment and evaluation.
 
