@@ -22,6 +22,8 @@ Five transcription variants of the Funeral Entries subset were produced:
 - **Curated Transkribus transcription (CUR):** A diplomatically curated version of TRA, correcting clear HTR errors while preserving original orthography.
 - **Transkribus + VARD transcription (TKV):** The TRA version processed with the software VARD2 to normalise historical spelling variants.
 
-## 📷 Funeral Entry Images
+## 📖 Funeral Entries Manuscripts, National Library of Ireland (NLI)
 
-Each entry includes images with crest and coat of arms from NLI GO MS 66, numbered FE 1–11, with Transkribus page files, volume reference, and folio pagination (e.g., 1 recto, 1 verso). FE 6 spans f. 2r–2v.
+The Funeral Entries, held at the Genealogical Office of the National Library of Ireland, span seventeen volumes and more than three thousand manuscript pages and extend from the late sixteenth to the early eighteenth century.
+
+The textual data in this repository was obtained from the manuscript **NLI GO MS 66** (Funeral Entries Volume 3) and represents its first three folios (f. 1r-3v). A full digitsed copy of the manuscript is available on the [**NLI's online catalogue**](https://catalogue.nli.ie/Record/vtls000529284).
